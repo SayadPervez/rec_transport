@@ -34,6 +34,7 @@ function expander(obj)
 {
     console.log(obj);
     y=obj.id+"x";
+    location.hash=obj.id;
     fetch(`./${obj.id}.html`)
     .then(response => {
         console.log(response);
