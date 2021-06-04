@@ -1,0 +1,3360 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN"
+    "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Page-exit" content="blendTrans(duration=1)"> 
+<title>Rajalakshmi Engineering College Transport | rectransport.com </title>
+<link rel="stylesheet" type="text/css" href="css/recnov2019.css" />
+
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+.mobmob{display:none;}
+@media only screen and (max-width: 768px) {
+ .mobmob{display:block;}
+  .pcpc{display:none;}
+.via{font:normal 14px arial; text-align:left;  text-decoration:none; color:#bba;}
+  </style>
+
+</head>
+<body>
+<div id=bodybox  style="max-width:1050px;">
+
+<center><img src="recTransport1050.png"  style="max-width:1050; border:solid 1px #999;">
+<a href="http://rectransport.com"   title="Transport home" style="position: absolute; left: 0.5%;top:1vw; width: 25vw; height:8vw; z-index: 1;"></a>
+<a href="https://www.rajalakshmi.org/" title="www.rajalakshmi.org" style="position: absolute; left: 40%; top:1vw; width: 55vw; height:8vw; z-index: 2;"></a>
+</center><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+    
+         ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    #aaa;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #aaa;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #aaa;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:    #aaa;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+   color:    #aaa;
+}
+
+::placeholder { /* Most modern browsers support this now. */
+   color:    #aaa;
+   input{font:normal 13px arial; color:#333;}
+}
+</style>
+</head>
+<body>
+<form action="mobileGet.php" method="post">
+    <table width=100%>
+<tr>
+ <td  style="font:bold 13px arial; text-align:center;">Type 4 or 5 letters of any part of boarding point name and get route no</td></tr>
+
+<tr><td  align=center><input class=search type='text'  name='bpt' placeholder="Type part of boarding point"> 
+     <input type='submit' value='Search' name='submit'> </td> 
+</tr>
+</table>
+
+</form>
+</body>
+</html
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+.collapsible1 {
+  background-color: #333;
+  color: white;
+  cursor: pointer;
+  padding: 3px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible1:hover {
+  background-color: #333;
+}
+td{border:solid 1px #999;}
+
+.content {
+  padding: 0 3px;
+  display: none;
+  overflow: hidden;
+  background-color: #002080;
+  text-align:left;
+}
+</style>
+</head>
+<body>
+
+
+
+
+<button type="button" class="collapsible1">Helpline numbers</button>
+<div class="content">
+ 
+<table width=100%>
+<tr><td style='width:51%;text-align:right;padding-right:30px;'><span class=ye> TRANSPORT DEPT</span> </td>
+<td style='width:49%;text-align:left;padding-left:30px;'>044 6718 1069</td></tr>
+<tr><td style='text-align:right;padding-right:30px;'>
+<span class=ye> A.K.Jeyaram</span> </td><td style='text-align:left;padding-left:30px;'>902 522 4605</td></tr>
+<tr><td style='text-align:right;padding-right:30px;'>
+<span class=ye> L.Ramajeyam</span> </td><td style='text-align:left;padding-left:30px;'>944 500 7183</td></tr>
+<tr><td style='text-align:right;padding-right:30px;'><span class=ye> A.Natarajan</span> </td>
+<td style='text-align:left;padding-left:30px;'>902 522 4606</td></tr>
+
+
+</table>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible1");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
+ 
+
+<table width=100% ><tr>
+      
+<td width='10%' class=date><a href='http://rectransport.com'> HOME </a></td>
+<td width='10%' class=date><a href='#'><font color="#ffffff"> Tue</font></a></td>
+<td width='10%' class=date><a href='#'><font color="#ffffff"> Wed</font></a></td>
+<td width='10%' class=date><a href='#'><font color="#ffffff"> Thu</font></a></td>
+<td width='10%' class=date><a href='#'><font color="#ffffff"> Fri</font></a></td>
+<td width='10%' class=date><a href='#'><font color="#ffffff"> Sat</font></a></td>
+<td width='10%' class=date><a href='#'><font color="#ffffff"> Sun</font></a></td>
+<td width='10%' class=date><a href='#'><font color="#ffffff"> Mon</font></a></td>
+
+
+</tr>
+<tr height=28>	<td colspan=8 style="text-align:center; ">
+<center><span style='font:normal 26px Times New Roman; color:#ddd;'>Today  </span><span style='font:normal 28px Times New Roman; color:#f90;'>Thu,  3rd, Jun, 2021 </span></center> 
+</tr>
+<tr>
+	<td colspan=4 style="text-align:center;height:22px;"><a  href='/recroutes/map00.php'><font color=#bbbbbb>College location</font></a></td>
+	<td colspan=4 style="text-align:center;height:22px;"><a href='0contact_form.php'>
+	<font color="#aaaaaa">Feedback</font> </a>
+</td>
+</tr>
+
+
+
+<tr><td colspan=10><marquee behavior=alternate scrollrate=10 direction=right width=80% height=30px>
+<span style='font:normal 26px arial; color:#ffcc88;padding-left:5px;'>Demo purpose only</span></marquee></td></tr>
+
+</table>
+
+
+
+
+
+<div class="container">
+  
+<div class="left">
+<table  align=left width=100%  cellpadding=2 cellspacing=2 >
+    
+
+<tr><td colspan=8 valign=middle style="font:bold 14px arial; text-align:left;height:27px;padding-left:1%;">
+    Click <font color="#ff9900">Route name</font> (e.g) <font color="#ffffff"><u> Ennore </u></font> to view the route Map</td></tr><tr>
+	<td width=5% colspan=1  class=sno><font color="#ffff99">Sno</td></font>
+	<td width=6% colspan=1  class=rno><font color="#ffff99">R.No</td></font>
+	<td        colspan=2 class=route><font color="#ffff99"><b>Route Name</b></font></td>
+	<td width=10% colspan=1 ><font color="#ffff99">Boarding Pts</font></td>
+	<td width=12% colspan=1 class=start align=center><font color="#ffff99">Starting time</font></td>
+	<td width=12% colspan=1 class=tick1><font color="#ffff99">Morning to College</font></td>
+	<td width=12% colspan=1 class=tick2><font color="#ffff99">Return after 3.10 pm</font></td>
+</tr> 
+
+
+ <tr>
+	<td colspan=1 class=sno>1</td>
+	<td colspan=1 class=rno>1</td>
+	<td colspan=2 class=route><span><a class=info href='/recroutes/map01.php'>Ennore</a></span></td>
+	<td colspan=1 class=timing>
+	    
+	<a class=info href="nrouteBox/n01.php">Timing<span>
+	
+<table width=100% cellpadding=1 cellspacing=1 >
+<tr><td class=bbpt>1.Ennore Bus Stand</td><td class=btim>5.45 am</td></tr>
+<tr><td class=bpt>Ernavur anna nagar</td><td class=tim>5.48</td></tr>
+<tr><td class=bpt>Ernavur</td><td class=tim>5.50</td></tr>
+<tr><td class=bpt>Murugan Koil</td><td class=tim>5.52</td></tr>
+<tr><td class=bpt>Lift Gate</td><td class=tim>5.54</td></tr>
+<tr><td colspan=2 class=bpt><font color=red>Since TH road is blocked , Students and Staff are requested to board the bus at parallel point in Thiruvottiyur Beach Road from <B>Wimco Nagar to <B>Thangal</font></td></tr>
+<tr><td class=bpt>Wimco nagar</td><td class=tim>6.00</td></tr>
+<tr><td class=bpt>Thiruvottiyur Bus Terminal</td><td class=tim>6.01</td></tr>
+<tr><td class=bpt>Periar Nagar</td><td  class=tim>6.02</td></tr>
+<tr><td class=bpt>Vellayan Chettiyar School</td><td  class=tim>6.03</td></tr>
+<tr><td class=bpt>Thiruvottiyur Market</td><td class=tim>6.04</td></tr>
+<tr><td class=bpt>Theradi</td><td class=tim>6.05</td></tr>
+<tr><td class=bpt>Raja Kadai </td><td class=tim>6.06</td></tr>
+<tr><td class=bpt>Elaiyamman Kovil</td><td  class=tim>6.07</td></tr>
+<tr><td class=bpt>Kaladipet market </td><td class=tim>6.08</td></tr>
+<tr><td class=bpt>Thangal</td><td class=tim>6.09</td></tr>
+<tr><td class=bpt>Tolgate </td><td class=tim>6.11</td></tr>
+<tr><td class=bpt>Kasimedu Signal</td><td class=tim>6.13</td></tr>
+<tr><td class=bpt>Kalmandapam</td><td class=tim>6.16</td></tr>
+<tr><td class=bpt>Clive Battery</td><td class=tim>6.20</td></tr>
+
+<tr><td colspan=2 class=bpt><font color="#FF0000">via: <b>Non Stop</font>
+<font color="#999999">Beach station, Parrys,  
+Central, Koyambedu Roundtana, Poonamallee Bye pass, </td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</font></td></tr>
+
+</table></span></a></td>
+	<td class=start align=center>5.45am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+</tr>
+	
+<tr>
+	<td colspan=1 class=sno>2</td>
+
+	<td colspan=1 class=rno>1C</td>
+	<td colspan=2 class=route>  <span><a class=info href='/recroutes/map01c.php'>Tollgate</a></span></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n01c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>1C. Tollgate (Thiruvotriyur)</td></tr>
+<tr><td class=bpt>N4 Police Station</td><td class=btim>6.10 am</td></tr>
+<tr><td class=bpt>Kasimedu Signal</td><td class=tim>6.12</td></tr>
+<tr><td class=bpt>Royapuram Bridge</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>Beach Station</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Annamalai Mandram</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>GH (Rajiv Gandhi Hospital)</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Everest Hotel</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Daspraksh</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Neyveli House </td><td class=tim>6.31</td></tr>
+<tr><td class=bpt>KMC  </td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Taylors road </td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Pachaiyappa</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Aminjikarai Billroth Hospital</td><td class=tim>6.36</td></tr>
+
+<tr><td colspan=2 class=bpt><font color="#ff0000"><b>Via - Non stop:</font>
+<font color="#999999">Koyambedu Roundtana, 
+Poonamallee Bye pass,</font></td></tr>
+<tr><td class=bbpt>College Campus</td><td class=tim>7.40 am </font></td></tr>
+</table>
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.10 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+
+	<tr>
+	<td colspan=1 class=sno>3</td>
+
+	<td colspan=1 class=rno>2</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map02.php'>Tondiarpet <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n02.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>2.Tondiarpet</td></td></tr>
+<tr><td class=bpt>Tondiarpet Mani Cycle Shop </td><td class=btim>6:10 am</td></tr>
+<tr><td class=bpt>Tondiarpet Manikoondu </td><td class=tim>6:11 </td></tr>
+<tr><td class=bpt>Maharani (Singapore Shoppee)</td><td class=tim>6.13</td></tr>
+<tr><td class=bpt>Cementry Road</td><td class=tim>6:14</td></tr>
+<tr><td class=bpt>Pencil Factory</td><td class=tim>6:15</td></tr>
+<tr><td class=bpt>Min Old Bus Stop</td><td class=tim>6.16</td></tr>
+<tr><td class=bpt>Mint New Bus Stand</td><td class=tim>6.17</td></tr>
+<tr><td class=bpt>Basin Bridge</td><td class=tim>6.18</td></tr>
+<tr><td class=bpt>Pulianthop PoliceStation</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Patalam Bus Stop</td><td class=tim>6.31</td></tr>
+<tr><td class=bpt>Bhuvaneswari Theatre Bus Stop </td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Dovton </td><td class=tim>6.33</td></tr>
+<tr><td colspan=2 class=bpt><font color="#ff0000"><b>Via - Non stop:</font> 
+<font color="#999999">KMC, Aminjikarai, Koyambedu Roundtana, Poonamallee Bye Pass.
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</font> </td></tr>
+
+</table>
+
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.10 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+
+	<tr>
+	<td colspan=1 class=sno>4</td>
+
+	<td colspan=1 class=rno>3</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map03.php'>Choolai <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n03.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>3.Choolai</td></tr>
+<tr><td class=bpt>Choolai post office</td><td  class=btim>6.15 am</td></tr>
+<tr><td class=bpt>Veperi Police Station </td><td class=tim>6:20 </td></tr>
+<tr><td class=bpt>Saravana Stores - Pursaiwakkam </td><td class=tim>6:25 </td></tr>
+<tr><td class=bpt>Kangathiswarar Koil </td><td class=tim>6:27 </td></tr>
+<tr><td class=bpt>Alagappa Road</td><td class=tim>6:30 </td></tr>
+<tr><td class=bpt>Bathala Ponniammam Koil</td><td class=tim>6:31 </td></tr>
+<tr><td class=bpt>Motcham theatre</td><td class=tim>6:32 </td></tr>
+<tr><td class=bpt>Mummy Daddy</td><td class=tim>6:35 </td></tr>
+<tr><td class=bpt>Murugan Hospital</td><td class=tim>6:40 </td></tr>
+<tr><td colspan=2 class=bpt><font color="#ff0000">via - Non Stop</font> 
+<font color="#999999">Koyambedu Rountana, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+
+	
+	
+	
+	
+	
+
+
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>5</td>
+
+	<td colspan=1 class=rno>3C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map03c.php'>Ayanawaram ESI<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n03c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>3C.Ayanawaram ESI</td></tr>
+<tr><td class=bpt>ESI Ayanawaram </td><td class=btim>6.20 am</td></tr>
+<tr><td class=bpt>Kellys - Signal </td><td class=tim>6:25</td></tr>
+<tr><td class=bpt>Kilpauk Garden (Cementry) </td><td class=tim>6:27</td></tr>
+<tr><td class=bpt>Periyapalayatha Amman Temple</td><td class=tim>6:29</td></tr>
+<tr><td class=bpt>Shenoy nagar (TVK park)</td><td class=tim>6:40</td></tr>
+<tr><td class=bpt>Panchaliyamman Koil street</td><td class=tim>6:45</td></tr>
+<tr><td colspan=2 class=bpt><font color="#ff0000">via - Non Stop</font> 
+<font color="#999999">Koyambedu Rountana, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+
+	
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>6</td>
+
+	<td colspan=1 class=rno>4</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map04.php'>Chintadripet<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n04.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>4.Chintadripet</td></tr>
+<tr><td class=bpt>Chintadripet Fish Market </td><td class=btim>6.15 am</td></tr>
+<tr><td class=bpt>Chitharipet Market </td><td class=tim>6:17 </td></tr>
+<tr><td class=bpt>Chitharipet Police Quarters </td><td class=tim>6:18</td></tr>
+<tr><td class=bpt>Pudupet	 </td><td class=tim>6:20 </td></tr>
+<tr><td class=bpt>Egmore Court </td><td class=tim>6:22</td></tr>
+<tr><td class=bpt>Rajarthinam Stadium </td><td class=tim>6:25 </td></tr>
+<tr><td class=bpt>Egmore (Co-Optex) Bridge </td><td class=tim>6:28</td></tr>
+<tr><td class=bpt>Halls Road Junction </td><td class=tim>6:30 </td></tr>
+<tr><td class=bpt>Spurtank Road </td><td class=tim>6:32 </td></tr>
+<tr><td class=bpt>Chepet Signal </td><td class=tim>6:35</td></tr>
+<tr><td class=bpt>Harington Road </td><td class=tim>6:37 </td></tr>
+<tr><td class=bpt colspan=2 ><font color="#ff0000">via - Non Stop</font> 
+<font color="#999999">Koyambedu Rountana, 
+Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>
+
+
+
+
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+
+	<td colspan=1 class=sno>7</td>
+
+	<td colspan=1 class=rno>4C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map04c.php'>Loyola College<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n04c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>4C.Loyola College</td></tr>
+<tr><td class=bpt>Loyola College</td><td  class=btim>6.35 am</td></tr>
+<tr><td class=bpt>Nungambakkam Railway Station </td><td  class=tim>6:38 </td></tr>
+<tr><td class=bpt>Mehtha Nagar </td><td  class=tim>6:40 </td></tr>
+<tr><td class=bpt>Pantloon</td><td  class=tim>6:43 </td></tr>
+<tr><td class=bpt>Skywalk</td><td class=tim>6:45 </td></tr>
+<tr><td class=bpt>Anna Arch</td><td class=tim>6:48 </td></tr>
+<tr><td class=bpt>Arumbakkam- Indian Hospital</td><td class=tim>6:50 </td></tr>
+<tr><td colspan=2 class=bpt><font color="#FF0000">via - Non Stop</font><font color="#999999">
+Koyambedu, Madhuravoil, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+
+
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.35 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>8</td>
+
+	<td colspan=1 class=rno>5</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map05.php'>Chintamani<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n05.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>5. Chintamani </td></tr>
+<tr><td class=bpt>Chintamani</td><td  class=btim>6.30 am</td></tr>
+<tr><td class=bpt>K3 Police station</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Razack Garden </td><td class=tim>6:35 </td></tr>
+<tr><td class=bpt>MMDA </td><td class=tim>6:38 </td></tr>
+<tr><td class=bpt>MMDA Bus Depot </td><td class=tim>6:40 </td></tr>
+<tr><td class=bpt>Vallavan Hotel </td><td class=tim>6:43 </td></tr>
+<tr><td class=bpt>SAF Games Village </td><td class=tim>6:48 </td></tr>
+<tr><td colspan=2 class=bpt><font color="#ff0000">via - Non Stop</font><br>
+<font color="#999999">Madhuravoil, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+<!--
+<tr><td class=bpt>Chintamani</td><td  class=btim>6.35 am</td></tr>
+12 Feb 2020-->
+
+	
+	
+	
+	
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+
+
+	<td colspan=1 class=sno>9</td>
+
+	<td colspan=1 class=rno>5C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map05c.php'>Toyota Show room<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n05c.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>5C-Toyota Show room </td><td  class=btim>6.45 am</td></tr>
+<tr><td class=bpt>Vempuliamman Koil </td><td  class=tim>6:48</td></tr>
+<tr><td class=bpt>Nerkundram</td><td  class=tim>6.50</td></tr>
+<tr><td class=bpt>Vengaya Mandi </td><td  class=tim>6:53 </td></tr>
+<tr><td class=bpt>Madaravoyoil Post Office </td><td  class=tim>6:55 </td></tr>
+<tr><td class=bpt>Madaravoyoil Errikarai </td><td  class=tim>6.59 </td></tr>
+<tr><td class=bpt>Thiruverkadu Toyota Show Room </td><td  class=tim>7:07 </td></tr>
+<tr><td class=bpt>ACS Medical College </td><td  class=tim>7:09 </td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+
+	
+
+	
+	
+	
+	
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.45 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>10</td>
+
+	<td colspan=1 class=rno>6</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map06.php'>New Avadi Road Water Tank<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n06.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>6. New Avadi Road Water Tank</td></tr>
+<tr><td class=bpt>New Avadi Road Water Tank</td><td  class=btim>6.35 am</td></tr>
+<tr><td class=bpt>Gangaiamman koil</td><td  class=tim>6.37</td></tr>
+<tr><td class=bpt>Lotus Colony</td><td  class=tim>6.39</td></tr>
+<tr><td class=bpt>14- Shop</td><td  class=tim>6.44</td></tr>
+<tr><td class=bpt>Kandasamy College</td><td  class=tim>6.46</td></tr>
+<tr><td class=bpt>Nalli Silks</td><td  class=tim>6.48</td></tr>
+<tr><td class=bpt>Ayyappan Temple </td><td  class=tim>6:50 </td></tr>
+<tr><td class=bpt>Blue star</td><td  class=tim>6:52</td></tr>
+<tr><td class=bpt>Tower Park Metro Station </td><td  class=tim>6:54 </td></tr>
+<tr><td class=bpt>Sathosh Super Market</td><td  class=tim>6:56</td></tr>
+<tr><td class=bpt>Hot chips</td><td  class=tim>6:58</td></tr>
+<tr><td class=bpt>Senthil Nursing Home</td><td  class=tim>7:00</td></tr>
+<tr><td class=bpt>CPWD Quarters</td><td  class=tim>7:02</td></tr>
+<tr><td colspan=2 class=bpt>via - <font color="#ff0000">Non Stop</font> 
+<font color="#999999">Koyambedu Rountana,<br> Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+
+
+
+
+	
+	
+
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.35 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>11</td>
+
+	<td colspan=1 class=rno>7</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map07.php'>Anna Nagar East<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n07.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>7. Anna Nagar East</td></tr>
+<tr><td class=bpt>Anna Nagar RTO Office</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Anna Nagar East 1st Avenue </td><td class=tim>6.37</td></tr>
+<tr><td class=bpt>Anna Nagar East 6th Avenue </td><td class=tim>6.39</td></tr>
+<tr><td class=bpt>Chennai Mobiles </td><td class=tim>6.41</td></tr>
+<tr><td class=bpt>K4 Police Station</td><td class=tim>6.43</td></tr>
+<tr><td class=bpt>Kovai Palamuthircholai </td><td class=tim>6.45 </td></tr>
+<tr><td class=bpt>Akshyam Hotel  </td><td class=tim>6.47 </td></tr>
+<tr><td class=bpt>Nuts Piczs  </td><td class=tim>6.49 </td></tr>
+<tr><td class=bpt>SBI Bank - 6th Avenue  </td><td class=tim>6.51 </td></tr>
+<tr><td class=bpt>Bata Show Room </td><td class=tim>6.53 </td></tr>
+<tr><td class=bpt>Vijaya Maruthi</td><td class=tim>6.55</td></tr>
+<tr><td class=bpt>Relience Fresh</td><td class=tim>6.57</td></tr>
+<tr><td colspan=2 class=bpt><font color="#ff0000">via - Non Stop</font> 
+<font color="#999999">Tambram Ex Highway, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.35 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>12</td>
+
+	<td colspan=1 class=rno>7B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map07b.php'>Thirumangalam EB<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n07b.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>7B.Thirumangalam EB</td></tr>
+<tr><td class=bpt>Thriumangalam EB Bus Stop</td><td class=btim>6.40 am</td></tr>
+<tr><td class=bpt>Water Tank (Muggapir West)</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>JJ Nagar Service Road</td><td class=tim>7.00</td></tr>
+<tr><td class=bpt>Vanagaram Bus Stop</td><td class=tim>7.05</td></tr>
+<tr><td class=bpt>Velapanchavadi Kendra Vihar Appartment</td><td class=tim>7.08</td></tr>
+<tr><td colspan=2 class=bpt><font color="#FF0000">via - Non Stop</font>
+<font color="#999999">Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus	</td><td class=tim>7.40 am</td></tr>
+</table>
+
+
+
+
+
+	
+	
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>13</td>
+
+	<td colspan=1 class=rno>7C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map07c.php'>Wavin <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n07c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>7C. Wavin</td></tr>
+<tr><td class=bpt>Collector nagar</td><td class=btim>6.45 am</td></tr>
+<tr><td class=bpt>GEM Flats</td> <td class=tim>6.46</td></tr>
+<tr><td class=bpt>TSK Nagar</td><td class=tim>6.47</td></tr>
+<tr><td class=bpt>Velammal / DAV</td><td class=tim>6.48</td></tr>
+<tr><td class=bpt>Golden flats</td><td class=tim>6.49</td></tr>
+<tr><td colspan=2 class=bpt><font color="#FF0000">via - Non Stop</font>
+<font color="#999999">Tambaram Express Highway, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.45 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+	<tr>
+	<td colspan=1 class=sno>14</td>
+
+	<td colspan=1 class=rno>8</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map08.php'>SIDCO Villivakkam <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n08.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>8. SIDCO Villivakkam</td></tr>
+<tr><td class=bpt>SIDCO Villivakkam</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>Singarampillai School</td><td class=tim>6.42</td></tr>
+<tr><td class=bpt>Anbu Colony </td><td class=tim>6:44 </td></tr>
+<tr><td class=bpt>Anna Nagar West Depot</td><td class=tim>6.45</td></tr>
+<tr><td colspan=2 class=bpt><font color="#ff0000">via - Non Stop</font> 
+<font color="#999999">Thambram Exp. Highway, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+
+
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>15</td>
+
+	<td colspan=1 class=rno>8C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map08c.php'>Waves <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n08c.php">Timing<span>
+	<table width="100%">
+<tr><td COLSPAN=2 class=bbpt>8C.  Waves</td></tr>
+<tr><td class=bpt>HP Petrol Bunk</td><td class=btim>6.40 am</td></tr>
+<tr><td class=bpt>Waves</td><td class=tim>6.43</td></tr>
+<tr><td class=bpt>V3 JJ Nagar Police Booth</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt>Dharma Fancy Store(Veeramunivar rd Jn)</td><td class=tim>6.46</td></tr>
+<tr><td class=bpt>Chandra Studio </td><td class=tim>6:47 </td></tr>
+<tr><td class=bpt>IOB Mugapair East</td><td class=tim>6.48</td></tr>
+<tr><td class=bpt>Ooty Vegetables</td><td class=tim>6.49</td></tr>
+<tr><td class=bpt>Water Tank</td><td class=tim>6.50</td></tr>
+<tr><td COLSPAN=2 class=bpt><font color="#FF0000">via - Non Stop</font>
+<font color="#999999">Tambaram Express Highway, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+
+	
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+<tr>
+	<td colspan=1 class=sno>16</td>
+
+	<td colspan=1 class=rno>9</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map09.php'>Mugappair East<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n09.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>9.Mogappair East</td></tr>
+<tr><td class=bpt>Aarthi Sweets	 </td><td  class=btim>6.40 am </td></tr>
+<tr><td class=bpt>Moggapair East Bus Stop (7H) </td><td  class=tim>6:43 </td></tr>
+<tr><td colspan=2 class=bpt>via - <font color="#ff0000">Non Stop</font> 
+<font color="#999999"> Tambaram Express Highway Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+
+
+
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+<tr>
+	<td colspan=1 class=sno>17</td>
+
+	<td colspan=1 class=rno>9B</td>
+
+
+	<td colspan=2 class=route><a class=info href='/recroutes/map09.php'>Mugappair<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n09b.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>9B Mogappair </td> </tr>
+<tr><td class=bpt>VGN Appartments  </td><td  class=btim>6:40  am</td></tr>
+<tr><td class=bpt>Ambetkar Ground </td><td  class=tim>6:41 </td></tr>
+<tr><td class=bpt>Vellammal School (Moggapair West) </td><td  class=tim>6:42 </td></tr>
+<tr><td class=bpt>Moggapair West  Bus Stand (7M) </td><td  class=tim>6:46 </td></tr>
+<tr><td colspan=2 class=bpt>via - <font color="#ff0000">Non Stop</font> <br>
+<font color="#999999">Tambaram Express Highway Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+
+	
+	
+	
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>18</td>
+
+	<td colspan=1 class=rno>9C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map09.php'>Mugappair west<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n09c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>9C.Mogappair  West</td> </td></tr>
+<tr><td class=bpt>DRJ Super Market</td><td class=btim>6.50 am</td></tr>
+<tr><td class=bpt>Freanch Loaf</td><td class=tim>6.53</td></tr>
+<tr><td class=bpt>VGN Service Road</td><td class=tim>6.55</td></tr>
+<tr><td class=bpt>MGR University</td><td class=tim>6.56</td></tr>
+<tr><td class=bpt colspan=2 ><font color="#FF0000">via - Non Stop</font>
+<font color="#999999">
+Tambaram Express Highway
+Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+
+	
+	
+	
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.50 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+<tr>
+	<td colspan=1 class=sno>19</td>
+
+	<td colspan=1 class=rno>10</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map10.php'>Pattalam (Dasamhan Road) <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n10.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>10. Pattalam (Dasamhan Road)</td></tr>	
+<tr><td class=bpt>Pattalam Rountana </td><td class=time ><b>6:18 am</td></tr>
+<tr><td class=bpt>Dasamahan </td><td class=tim>6:20</td></tr>
+<tr><td class=bpt>Podikadai Bus Stop </td><td class=tim>6:22 </td></tr>
+<tr><td class=bpt>Sayani Theatre  </td><td class=tim>6:25 </td></tr>
+<tr><td class=bpt>Venkatesapuram Colony </td><td class=tim>6.26 </td></tr>
+<tr><td class=bpt>HP Petrol Bunk </td><td class=tim>6:27 </td></tr>
+<tr><td class=bpt>K2 Police Station  </td><td class=tim>6:28</td></tr>
+<tr><td class=bpt>Joint Office </td><td class=tim>6:30 </td></tr>
+<tr><td class=bpt>Railway Quarters Bus Stop </td><td class=tim>6:33 </td></tr>
+<tr><td  colspan=2 class=bpt><font color="#FF0000">via - Non Stop</font><font color="#999999">
+Lucas, Wavin, Tambaram express highway,
+Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.18 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>20</td>
+
+	<td colspan=1 class=rno>10C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map10c.php'>Binny Mill Church<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n10c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>10C. &nbsp; &nbsp; &nbsp; Binny Mill Church</td></tr>
+<tr><td class=bpt>Binny Mill Church </td><td class=time ><b>6.20 am</td></tr>
+<tr><td class=bpt>Kambar Arangam</td><td class=tim>6:35 </td></tr>
+<tr><td class=bpt>ICF Signal</td><td class=tim>6:37 </td></tr>
+<tr><td class=bpt>Kallukadai Bus Stop</td><td class=tim>6:38 </td></tr>
+<tr><td class=bpt>Villivakkam Kalpana Hotel </td><td class=tim>6:39 </td></tr>
+<tr><td class=bpt>Nadhamuni Theatre</td><td class=tim>6.40</td></tr>
+<tr><td colspan=2 class=bpt><font color="#FF0000">via - Non Stop</font><font color="#999999">
+Padi, Wavin, Tambaram Express Highway, 
+Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+
+
+
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>21</td>
+
+	<td colspan=1 class=rno>11</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map11.php'>Madhavaram <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n11.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>11. Madhavaram (M1.Police Station)</td></td></tr>
+<tr><td class=bpt>M1.Police Station </td><td  class=tim>6:20 </td></tr>
+<tr><td class=bpt>Kanakan Chithiram </td><td  class=tim>6:25 </td></tr>
+<tr><td class=bpt>Madavaram Rountana </td><td  class=tim>6:27 </td></tr>
+<tr><td class=bpt>Retteri RTO Office </td><td  class=tim>6:30 </td></tr>
+<tr><td class=bpt>Retteri </td><td  class=tim>6:32 </td></tr>
+<tr><td class=bpt>Rajamangalam Signal (Reliance) </td><td  class=tim>6:33 </td></tr>
+<tr><td class=bpt>Senthil Nagar </td><td  class=tim>6:34 </td></tr>
+<tr><td class=bpt>Thathankuppam (DRJ) </td><td  class=tim>6:35 </td></tr>
+<tr><td colspan=2 class=bpt><font color="#ff0000">Non Stop</font> <font color="#999999">via -  Padi, Wavin, Tambaram high way, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+
+<!--(modified on 10th Oct 2019)-->
+	
+	
+	
+	
+  	
+	
+	
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	
+	<tr>
+	<td colspan=1 class=sno>22</td>
+
+	<td colspan=1 class=rno>11C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map11c.php'>Korattur <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n11c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>11C. &nbsp; &nbsp; Korattur</td></tr>
+<tr><td class=bpt>Patavetuamman Koil (Lucas) </td><td class=btim>6:30 am  </td></tr>
+<tr><td class=bpt>Korattur Signal </td><td class=tim>6:32 </td></tr>
+<tr><td class=bpt>Korattur Police Station </td><td class=tim>6:33 </td></tr>
+<tr><td class=bpt>Bakthavatchlam School Signal </td><td class=tim>6:35 </td></tr>
+<tr><td class=bpt>Church </td><td class=tim>6:37 </td></tr>
+<tr><td class=bpt>Karuk Signal </td><td class=tim>6:39 </td></tr>
+<tr><td class=bpt>Patarawakkam </td><td class=tim>6:40 </td></tr>
+<tr><td class=bpt>Telephone Exchange </td><td class=tim>6:45 </td></tr>
+<tr><td class=bpt>Wavin Signal </td><td class=tim>6:50 </td></tr>
+<tr><td colspan=2 class=bpt><font color="#FF0000">via - Non Stop</font><font color="#999999">
+Tambaram Exp.Highway, Poonamallee ByPass.</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	
+	<tr>
+	<td colspan=1 class=sno>23</td>
+
+	<td colspan=1 class=rno>12</td>
+
+	<td colspan=2 class=route><a class=info href='/recroutes/map12.php'>MKB Nagar<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n12.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>12. MKB. Nagar</td></td></tr>
+<tr><td class=bpt>MKB Nagar</td><td  class=btim>6.15 am</td></tr>
+<tr><td class=bpt>MKD Nagar</td><td  class=tim>6.17</td></tr>
+<tr><td class=bpt>MR Nagar</td><td  class=tim>6.20</td></tr>
+<tr><td class=bpt>Erukancherry</td><td  class=tim>6.22</td></tr>
+
+<tr><td colspan=2 class=bpt> <font color="#ff0000">Non Stop</font> via - <font color="#999999"> Chennai outer ring road .</font></td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+	
+	<tr>
+	<td colspan=1 class=sno>24</td>
+
+	<td colspan=1 class=rno>12A</td>
+
+	<td colspan=2 class=route><a class=info href='/recroutes/map12.php'>Moolakadai<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n12a.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>12A.Moolakadai</td></td></tr>
+<tr><td class=bpt>Moolakadai  </td><td  class=btim>6.20 am </td></tr>
+<tr><td class=bpt>Don Bosco School </td><td  class=tim>6.24 </td></tr>
+<tr><td class=bpt>Square Brothers Info Tech </td><td  class=tim>6.26 </td></tr>
+<tr><td class=bpt>70 Feet Road (SSM Elite Party Hall)) </td><td  class=tim>6.30 </td></tr>
+<tr><td class=bpt>Kolathur US Hospitals </td><td  class=tim>6.35 </td></tr>
+<tr><td colspan=2 class=bpt> <font color="#ff0000">Non Stop</font> via - <font color="#999999"> Chennai bypass road </font></td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+<!-- Modified on 10th oct 2019 -->	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>25</td>
+
+	<td colspan=1 class=rno>12B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map12b.php'>Kolathur <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n12b.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>12B. &nbsp; Kolathur </td> </tr>
+<tr><td class=bpt>Ajantha Bakery </td><td  class=btim>6:30 am</td></tr>
+<tr><td class=bpt>Welding Shop </td><td  class=tim>6:35 </td></tr>
+<tr><td class=bpt>Kolathur Junction </td><td  class=tim>6:40 </td></tr>
+<tr><td class=bpt>Retteri Signal </td><td  class=tim>6:42 </td></tr>
+<tr><td colspan=2 class=bpt> <font color="#ff0000">Non Stop</font> via - <font color="#999999">Chennai Outer Ring Road </font></td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+	
+	
+	
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>26</td>
+
+	<td colspan=1 class=rno>12C</td>
+    <td colspan=2 class=route><a class=info href='/recroutes/map12c.php'>Perambur  <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n12c.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>12C. &nbsp;  Perambur</td> </tr>
+<tr><td class=bpt>Lakshmi Amman Koil(Ramana Nagar)</td><td  class=btim>6:10 am</td></tr>
+<tr><td class=bpt>EaswariMhal </td><td  class=tim>6.15</td></tr>
+<tr><td class=bpt>Renuka amman koil Koil</td><td  class=tim>6.17</td></tr>
+<tr><td class=bpt>BP Road </td><td  class=tim>6:19 </td></tr>
+<tr><td class=bpt>Perambur Bus Depo</td><td  class=tim>6.20</td></tr>
+<tr><td class=bpt>Perambur Rly Station</td><td  class=tim>6.22</td></tr>
+<tr><td class=bpt>Perumbur Church</td><td  class=tim>6:25</td></tr>
+<tr><td class=bpt>Ajantha Bakers</td><td  class=tim>6.26</td></tr>
+<tr><td class=bpt>Venus Bus Stop</td><td  class=tim>6.27</td></tr>
+<tr><td colspan=2 class=bpt><font color="#ff0000">Non Stop</font> via - <font color="#999999"> Wavin, Thambaram</font> </td></tr>
+<tr><td class=bpt>Express Highway, Poonamallee Bye Pass.</td><td  class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table
+
+	
+
+	
+
+
+
+	
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.10 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>27</td>
+
+	<td colspan=1 class=rno>13</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map13.php'>Peravallur<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n13.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>13.Peravallur</td></tr>
+<tr><td class=bpt>Peravalur</td><td class=time ><b>6.20 am</td></tr>
+<tr><td class=bpt>Jawahar Nagar Bus Stop</td><td class=tim>6.22</td></tr>
+<tr><td class=bpt>Axis Bank</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>Agaram BPCL Bunk</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Thiruvalluvar Kalyanamandabam</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>Periyar Nagar Bus Stand</td><td class=tim>6.28</td></tr>
+<tr><td class=bpt>Kolathur Don Bosco School</td><td class=tim>6.30</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000> Non Stop </font>via - <font color=#999999>Tambram Ex Highway, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>28</td>
+
+	<td colspan=1 class=rno>13B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map13b.php'>T.V.K Nagar  <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n13b.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>13b.TVK Nagar</td></tr>
+<tr><td class=bpt>Paneswari Amman Koil</td>                 <td class=btim>6.20 am</td></tr>
+<tr><td class=bpt>K 9 Thiru.Vi.Ka.Nagar Police Station</td> <td class=tim>6.22</td></tr>
+<tr><td class=bpt>Sai Baba Temple</td>                      <td class=tim>6.23</td></tr>
+<tr><td class=bpt>Thiru.Vi.Ka. Nagar Bus Terminal</td>      <td class=tim>6.25</td></tr>
+<tr><td class=bpt>T.V.K Nagar Market</td>                   <td class=tim>6.26</td></tr>
+<tr><td colspan=2 class=bpt><font color=#990000>via-Non stop</font>
+<font color=#999999>Madhavaram Exp Highway, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bpt>College campus</td>                       <td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>29</td>
+	<td colspan=1 class=rno>13C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map13c.php'>Poombukar Nagar<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n13c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>13C. Poombukar Nagar</td> </tr>  
+<tr><td class=bpt>Chiken Shop</td><td class=btim>6.30 am</td></tr>
+<tr><td class=bpt>Poombukar Nagar Post Office</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Grace Super Market</td><td class=tim>6.35</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000> Non Stop </font> via - 
+<font color=#999999>Tambram Ex Highway, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>30</td>
+
+	<td colspan=1 class=rno>14</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map14.php'>Minjur<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n14.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>14 Minjur</td></tr>
+<tr><td class=bpt>Kattur Koot Road</td><td class=btim>5.30 am</td></tr>
+<tr><td class=bpt>BDO Office</td><td class=tim>5.35</td></tr>
+<tr><td class=bpt>Patamanthri</td><td class=tim>5.40</td></tr>
+<tr><td class=bpt>Manali New Town</td><td class=tim>5.45</td></tr>
+<tr><td class=bpt>Manali Market</td><td class=tim>6.05</td></tr>
+<tr><td class=bpt>Mathur</td><td class=tim>6.10</td></tr>
+<tr><td class=bpt>Vetenari College</td><td class=tim>6.12</td></tr>
+<tr><td class=bpt>Milk Colony</td><td class=tim>6.14</td></tr>
+<tr><td class=bpt>Arul Nagar</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>Madavaram Bus Stand</td><td class=tim>6.20</td></tr>
+
+<tr><td colspan=2 class=bpt><font color="#ff0000">Non Stop</font> via -  <font color="#999999">
+Vhennai Outer Ring road</font></td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>31</td>
+
+	<td colspan=1 class=rno>15</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map15.php'>Ayapakkam<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n15.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>15. Ayapakkam</td></tr>
+<tr><td class=bpt>Water Tank / Church</td><td class=btim>6.25 am</td></tr>
+<tr><td class=bpt>Dunlop</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Canara Bank</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>TI School Road</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Cake World - Ambattur</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Murugappa Politechnic</td><td class=tim>6.43</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>Non Stop</font>  via -<font color=#999999> 
+Chennai Outer Ring Road, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.25 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>32</td>
+	<td colspan=1 class=rno>15A</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map15a.php'>Ayapakkam Selvi Mahal<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n15a.php">Timing<span>
+	
+<table width="100%">
+<tr><td colspan=2 class=bbpt>15A. Ayapakkam Selvi Mahal</td></tr>
+<tr><td class=bpt>Ayapakkam Selvi Mahal</td><td class=btim>6.20 am</td></tr>
+<tr><td class=bpt>Bharath Petrol Bunk Ayapakkam</td><td class=tim>6.21</td></tr>
+<tr><td class=bpt>ICMR</td><td class=tim>6.22</td></tr>
+<tr><td class=bpt>Pillayarkoil Ayapkkam</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>Ayapakkam Water Tank</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>Koladi Petrol Bunk</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Caveri Nagar</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Ramaliya Mahal</td><td class=tim>6.37</td></tr>
+<tr><td class=bpt>Thiruverkadu Bus Stand</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>MGR Nagar Caveri Hospital</td><td class=tim>6.43</td></tr>
+<tr><td class=bpt>VGN Mahalakshmi Appartments</td><td class=tim>6.50</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>Non Stop</font>  via -<font color=#999999> 
+Chennai Outer Ring Road, Poonamallee Bye Pass.</font></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>33</td>
+
+	<td colspan=1 class=rno>15B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map15b.php'>Thirumullaivoil<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n15b.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>15B- Saraswathi Nagar (Ambattur)</td></tr>
+<tr><td class=bpt>Saraswathy Nagar Ambattur</td><td class=tim>6.40 am</td></tr>
+<tr><td class=bpt>Thirumullaivoil</td><td class=tim>6.42</td></tr>
+<tr><td class=bpt>Vaishnawi Nagar</td><td class=tim>6.43</td></tr>
+<tr><td class=bpt>Hindu College</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>Outer Ring Road bye Pass - Chokanallur</td><td class=tim>7.00</td></tr>
+<tr><td class=bpt>via - <font color=#ff0000>Non Stop</font> hennai Outer Ring Road, Poonamallee Bye Pass.</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+	<tr>
+	<td colspan=1 class=sno>34</td>
+
+	<td colspan=1 class=rno>15C</td>
+<td colspan=2 class=route><a class=info href='/recroutes/map15c.php'>Ambattur OT<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n15c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>15C. Ambattur OT </td></tr>
+<tr><td class=bpt>HPM paradise </td><td  class=tim>6.25</td></tr>
+<tr><td class=bpt>Singapore shopping</td><td  class=tim>6.30</td></tr>
+<tr><td class=bpt>Sir Ivan Stedford Hospital</td><td  class=tim>6.33</td></tr>
+<tr><td class=bpt>Choknallur (Outer Ring)</td><td  class=tim>7.00</td></tr>
+<tr><td colspan=2 class=bpt><font color=red> Non Stop</font> via -
+<font color=#999999>Chennai Outer ring Road</font></td</tr>
+<tr><td class=bbpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.25 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+	<tr>
+	<td colspan=1 class=sno>35</td>
+
+	<td colspan=1 class=rno>16</td>
+
+	<td colspan=2 class=route><a class=info href='/recroutes/map16.php'>Red Hills Thachoor Koot Road<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n16.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>16.Red Hills Thachoor Koot Road</td></tr>
+<tr><td class=bpt>Thachoor Koot Road</td> <td  class=btim>5.50 am </td></tr>
+<tr><td class=bpt>Panchati</td><td  class=tim>5.55</td></tr>
+<tr><td class=bpt>Janapachathiram Koot Road</td> <td  class=tim>6.00</td></tr>
+<tr><td class=bpt>Karanodai</td> <td  class=tim>6.07</td></tr>
+<tr><td class=bpt>Cholavaram</td><td  class=tim>6.09</td></tr>
+<tr><td class=bpt>Padiyanallur</td><td  class=tim>6.15</td></tr>
+<tr><td class=bpt>MA Nagar</td><td  class=tim>6:17 </td></tr>
+<tr><td class=bpt>Red Hills Bye Pass</td><td  class=tim>6:22 </td></tr>
+<tr><td class=bpt>Kavankarai</td><td  class=tim>6.25</td></tr>
+<tr><td class=bpt>Puzhal Jail</td><td  class=tim>6.26</td></tr>
+<tr><td class=bpt>Puzhual Camp </td><td  class=tim>6.28 </td></tr>
+<tr><td class=bpt>Senthil nagar </td><td  class=tim>6.35 </td></tr>
+<tr><td class=bpt>Vellammal College</td><td  class=tim>6.37</td></tr>
+<tr><td class=bpt>Ayyappan Koil </td><td  class=tim>6.40 </td></tr>
+<tr><td class=bpt>Kallikuppam Arch</td> <td  class=tim>6.42</td></tr>
+<tr><td colspan=2 class=bpt>via - <font color="#ff0000">Non Stop</font> <font color="#999999"> Chennai Outer ring Road</font></td></tr>
+<tr><td class=bpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+
+
+	
+	
+
+
+
+
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.50 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>36</td>
+
+	<td colspan=1 class=rno>16B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map16b.php'>Vinayagapuram <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n16b.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>16B. Vinayagapuram</td></tr>
+<tr><td class=bpt>Vinayagapuram SS Mahal</td><td  class=btim>6.24 am </td></tr>
+<tr><td class=bpt>Lakshmipuram </td><td  class=tim>6.25</td></tr>
+<tr><td class=bpt>Vinayagapuram Koot Raod </td><td  class=tim>6.26</td></tr>
+<tr><td class=bpt>Vinayagapuram Bazar </td><td  class=tim>6.27</td></tr>
+<tr><td class=bpt>Vinayagapuram  KVB ATM </td><td  class=tim>6.28</td></tr>
+<tr><td class=bpt>Surapet Main Road </td><td  class=tim>6.33</td></tr>
+<tr><td class=bpt>Manikandapuram HP Petrol Bunk </td><td  class=tim>6.43</td></tr>
+<tr><td colspan=2 class=bpt>via - <font color="#ff0000">Non Stop</font>
+<font color="#999999">Chennai outer Ring Road</font></td></tr>
+<tr><td class=bpt>college campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.24 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>37</td>
+
+	<td colspan=1 class=rno>16C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map16c.php'>Puzhal Byepass<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n16c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>16C. Puzhal Byepass</td></tr>
+<tr><td class=bpt>Redhills Koot Road</td>       <td  class=btim>6.15 am</td></tr>
+<tr><td class=bpt>Redhills Bus Stand</td>       <td  class=tim>6.17</td></tr>
+<tr><td class=bpt>Redhills Market</td>          <td  class=tim>6.19</td></tr>
+<tr><td class=bpt>Surapet</td>                  <td  class=tim>6.25</td></tr>
+<tr><td class=bpt>Shanmugapuram</td>            <td  class=tim>6.30</td></tr>
+<tr><td class=bpt>Kallikuppam Bridge</td>       <td  class=tim>6.35</td></tr>
+<tr><td class=bpt>Wireless</td>                 <td  class=tim>6.37</td></tr>
+<tr><td class=bpt>Pudur</td>                    <td  class=tim>6.39</td></tr>
+<tr><td class=bpt>Oragadam</td>                 <td  class=tim>6.41</td></tr>
+<tr><td class=bpt>P.T.R.Kalyanamanadapam</td>   <td  class=tim>6.42</td></tr>
+<tr><td colspan=2 class=bpt><font color=red>via - Non Stop</font>
+<font color=#666666>Chennai Outer ring Road</font></td></td></tr>
+<tr><td class=bbpt>College campus</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>38</td>
+
+	<td colspan=1 class=rno>17</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map17.php'>Uthukottai<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n17.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1 >
+<tr><td class=bpt  colspan=2> <b>17.  Uthukottai   </td></tr>
+<tr><td class=bpt>Uthukottai </td><td class=btim>5:50 am</td></tr>
+<tr><td class=bpt>Seethancheri </td><td class=tim>6:05 </td></tr>
+<tr><td class=bpt>Pularampakkam </td><td class=tim>6:25 </td></tr>
+<tr><td class=bpt>Thiruvallur - Meera Theatre</td><td class=tim>6:35 </td></tr>
+<tr><td class=bpt>Vasantha Bhavan Hotel </td><td class=tim>6:37 </td></tr>
+<tr><td class=bpt>Kakkalur Signal </td><td class=tim>6:40 </td></tr>
+<tr><td class=bpt>State Bank of India </td><td class=tim>6:42 </td></tr>
+<tr><td class=bpt>Post Office </td><td class=tim>6:45 </td></tr>
+<tr><td class=bpt>GH </td><td class=tim>6:47 </td></tr>
+<tr><td class=bpt>Thiruvalluvar Rly.Station </td><td class=tim>6:52 </td></tr>
+<tr><td class=bpt>Onedikuppam Kalyamandappam </td><td class=tim>6:55 </td></tr>
+<tr><td class=bpt>Putlur </td><td class=tim>6:58 </td></tr>
+<tr><td class=bpt>College campus </td><td class=tim>7:40 am </td></tr>
+
+</table>
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.50 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+<!--
+	<tr>
+	<td colspan=1 class=sno>39</td>
+
+	<td colspan=1 class=rno>17A</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map17a.php'>Manavalanagar Signal<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n17a.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1 >
+<tr><td class=bpt  colspan=2> <b>17A. Manavalanagar Signal  </td></tr>
+<tr><td class=bpt>Manavalanagar Signal</td><td class=btim>6:55 am</td></tr>
+<tr><td class=bpt>Thiruvalluvar Rly.Station</td><td class=tim>6:56 </td></tr>
+<tr><td class=bpt>Onedikuppam Kalyamandappam</td><td class=tim>6:57 </td></tr>
+<tr><td class=bpt>Kupusamy Nagar</td><td class=tim>6:58 </td></tr>
+<tr><td class=bpt>Venkathur Road </td><td class=tim>7:00 </td></tr>
+<tr><td class=bpt>Aranawayal</td><td class=tim>7:05 </td></tr>
+<tr><td class=bpt>College campus 	</td><td class=tim>  7:40 </td></tr>
+
+</table>
+
+	
+	
+	
+	
+	
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.55 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+-->
+	<tr>
+	<td colspan=1 class=sno>39</td>
+
+	<td colspan=1 class=rno>17B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map17b.php'>Avadi (Muthapudupet)<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n17b.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>17B. Avadi (Muthapudupet)</td></tr>
+<tr><td class=bpt>Avadi HVF Estate Post Office</td><td class=btim>6.14 am</td></tr>
+<tr><td class=bpt>Ajay Stadiuem</td><td class=tim>6.19</td></tr>
+<tr><td class=bpt>CRPF Junction</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Mitnamalli Junction</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Muthapupet</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Ellaiamman Nagar  PTMS</td><td class=tim>6.37</td></tr>
+<tr><td class=bpt>PTMS Vigneswara Temple</td><td class=tim>6.38</td></tr>
+<tr><td class=bpt>Gandhi Nagar (Pattabiram)</td><td class=tim>6.43</td></tr>
+<tr><td class=bpt>Nemelichery Rountana</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt>Jaya College</td><td class=tim>6.46</td></tr>
+<tr><td class=bpt>NTM Community Hall</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>Angel School</td><td class=tim>6.53</td></tr>
+<tr><td colspan=2 class=bpt>via - <font color=#ff0000> Non Stop </font>
+<font color=#999999>Chennai Outer Ring Road</font></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.14 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>40</td>
+
+	<td colspan=1 class=rno>17c</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map17c.php'>Veppampattu<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n17c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>17C. Veppampattu</td></tr>
+<tr><td class=bpt>Veppampattu Puliyamaram</td><td class=btim>6.25 am</td></tr>
+<tr><td class=bpt>Veppampattu Rly Station</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Veppampattu Tea Kadai</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Kandankollai</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Muthapudupet</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Chevappettai</td><td class=tim>6.38</td></tr>
+<tr><td class=bpt>Kakkalur</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt>Kakkalur old collector office</td><td class=tim>6.48</td></tr>
+<tr><td class=bpt>GRT</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>Manavalanagar Signal </td><td class=tim>6.54 </td></tr>
+<tr><td class=bpt>Kupusamy Nagar </td><td class=tim>6.56 </td></tr>
+<tr><td class=bpt>Venkathur Road </td><td class=tim>6.58 </td></tr>
+<tr><td class=bpt>Aranawayal </td><td class=tim>7.00 </td></tr>
+<tr><td class=bpt></td><td class=tim> </td></tr>
+
+
+
+
+<tr><td colspan=2 class=bpt>via - <font color=#ff0000> Non Stop </font>
+<font color=#999999>Thiruvalur - Poonamalle Road</font></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.25 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>41</td>
+
+	<td colspan=1 class=rno>18</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map18.php'>AVADI<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n18.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>18. Avadi       </td></tr>
+<tr><td class=bpt>Avadi Bus Stand</td><td class=btim>6.40 am</td></tr>
+<tr><td class=bpt>Avadi Ramarathinam</td><td class=tim>6.44</td></tr>
+<tr><td class=bpt>Ponnu Supermarket</td><td class=tim>6.47</td></tr>
+<tr><td class=bpt>J.B.Estate</td><td class=tim>6.50</td></tr>
+<tr><td colspan=2 class=bpt> via - <font color=#ff0000>Non Stop </font>
+<font color=#999999>Poonamallee Bypass</font></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+
+</table>
+<!--
+Avadi Bus Stand</td><td class=btim>6.45 am
+on 21st feb 2020
+-->	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>42</td>
+
+	<td colspan=1 class=rno>18B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map18b.php'>Avadi Check Post<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n18b.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>18B. Avadi Checkpost</td></tr>
+<tr><td class=bpt>Avadi Gandhi Nagar</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Avadi Pillyarkoil</td><td class=tim>6.31</td></tr>
+<tr><td class=bpt>Kavarapalayam</td><td class=tim>6.34</td></tr>
+<tr><td class=bpt>Sindu Nagar</td><td class=tim>6.36</td></tr>
+<tr><td class=bpt>Chekadu</td><td class=tim>6.38</td></tr>
+<tr><td class=bpt>Pattabiram Bridge</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>Pandiyan Rice Mill</td><td class=tim>6.55</td></tr>
+<tr><td class=bpt>Thiruninravur Gadhi Silai</td><td class=tim>6.57</td></tr>
+<tr><td class=bpt>Gomathipuram</td><td class=tim>7.00</td></tr>
+<tr><td class=bpt>NSK Nagar</td><td class=tim>7.03</td></tr>
+<tr><td class=bpt>Kottamedu Bus Stop</td><td class=tim>7.05</td></tr>
+<tr><td class=bpt>Kottamedu School</td><td class=tim>7.06</td></tr>
+<tr><td class=bpt>Nemmam</td><td class=tim>7.15</td></tr>
+<tr><td class=bpt>Vellavedu</td><td class=tim>7.19</td></tr>
+<tr><td class=bpt>Thirumizai Bus Stand</td><td class=tim>7.22</td></tr>
+<tr><td class=bpt>Thirumizsai Siva Temple</td><td class=tim>7.24</td></tr>
+<tr><td class=bpt>Thirumizsai Check Post</td><td class=tim>7.25</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop</font> Bangalore High Way</td>
+<td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+
+	<tr>
+	<td colspan=1 class=sno>43</td>
+
+	<td colspan=1 class=rno>18C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map18c.php'>Avadi Market<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n18c.php">Timing<span>
+	<table width="100%">
+
+<tr><td colspan=2 class=bbpt>18C. Avadi Market</td></tr>
+<tr><td class=bpt>Vasantham Nagar</td><td class=btim>6.45 am</td></tr>
+<tr><td class=bpt>Moorthy Nagar</td><td class=tim>6.46</td></tr>
+<tr><td class=bpt>Govarthnagiri</td><td class=tim>6.47</td></tr>
+<tr><td class=bpt>Ayankulam </td><td class=tim>6.48</td></tr>
+<tr><td class=bpt>Kendra Vidyalaya Flats</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>Paruthipatu</td><td class=tim>6.51</td></tr>
+<tr><td class=bpt>Kaduveti</td><td class=tim>6.53</td></tr>
+<tr><td class=bpt>Seneerkuppam</td><td class=tim>6.55</td></tr>
+<tr><td colspan=2 class=bpt>via - <font color=#ff0000>Non Stop </font> 
+<font color=#999999>Poonmallee byepass</font> </td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+
+</table>
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.45 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+<tr>
+	<td colspan=1 class=sno>44</td>
+
+	<td colspan=1 class=rno>19</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map19.php'> Chengalpattu <span> Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n19.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>19. Chengalpet</td></tr>
+<tr><td class=bpt>Chengalpet GH</td><td class=btim>5.45 am</td></tr>
+<tr><td class=bpt>Chengalpet Rotanakenar</td><td class=tim>5.47</td></tr>
+<tr><td class=bpt>Chengalpet New Bus Stop</td><td class=tim>5.50</td></tr>
+<tr><td class=bpt>Chengalpet Old Bus Stop</td><td class=tim>6.00</td></tr>
+<tr><td class=bpt>Mahindra city</td><td class=tim>6.10</td></tr>
+<tr><td class=bpt>S.P.Koil</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>Maraimalai Nagar Bus Stop</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Potheri</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Srinivasapuram</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Guduvancheri Bus Stop</td><td class=tim>6.31</td></tr>
+<tr><td class=bpt>Guduvancheri E.B.Stop</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Oorapakkam Tea Kadai</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>Oorapakkam Bus Stop</td><td class=tim>6.41</td></tr>
+<tr><td class=bpt>Vandalur</td><td class=tim>6.45</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Chennai Outer Ring Road</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>
+
+<!--
+12 Feb 2020
+
+<tr><td class=bpt>Chengalpet GH</td><td class=btim>5.30 am</td></tr>
+
+-->	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.45 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+</tr>
+
+	
+<tr>
+	<td colspan=1 class=sno>45</td>
+
+	<td colspan=1 class=rno>19a</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map19a.php'>Perungalathur  <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n19a.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>19A. Perungalathur </td></tr>
+<tr><td class=bpt>Perungalathur Bus Stop</td><td  class=btim>6.35 am </td></tr>
+<tr><td class=bpt>Perungalathur Earikarai</td><td  class=tim>6:36</td></tr>
+<tr><td class=bpt>Irumpuliyur</td><td  class=tim>6:40</td></tr>
+<tr><td class=bpt>Old Tambaram Kulam</td><td  class=tim>6:43 </td></tr>
+<tr><td class=bpt>Lakshmipuram</td><td  class=tim>6:44 </td></tr>
+<tr><td class=bpt>Krishnanagar</td><td  class=tim>6:46 </td></tr>
+<tr><td colspan=2 class=bpt>via <font color="red">Non Stop </font><font color="#999999">Chennai outer Ring Road</font></td></tr>
+<tr><td class=bpt>College campus	</td><td  class=tim>7.40 am</td></tr>
+</table>
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.35 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+
+<tr>
+	<td colspan=1 class=sno>46</td>
+
+	<td colspan=1 class=rno>19B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map19b.php'>  Varatharaja Theatre<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n19b.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>19B. Varatharaja Theatre</td></tr>
+<tr><td class=bpt>Varatharaja Theatre</td><td class=btim>6.35 am</td></tr>
+<tr><td class=bpt>Santorium</td><td class=tim>6.38</td></tr>
+<tr><td class=bpt>Bharathamada Street</td><td class=tim>6.42</td></tr>
+<tr><td class=bpt>Bharathi Nagar</td><td class=tim>6.48</td></tr>
+<tr><td class=bpt>Gandhi Nagar</td><td class=tim>6.49</td></tr>
+<tr><td class=bpt>Padmavathy Kalyanamandapam</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>Parvathy Nagar</td><td class=tim>6.52</td></tr>
+<tr><td class=bpt>Outer Ring Road (Service Road)</td><td class=tim>6.55</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Chennai Outer Ring Road</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.35 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+
+<tr>
+	<td colspan=1 class=sno>47</td>
+
+	<td colspan=1 class=rno>19C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map19c.php'> Hasthinapuram <span> Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n19c.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>19C. Hasthinapuram</td></tr>
+<tr><td class=bpt>Hasthinapuram Bus Stand</td><td class=btim>6.20 am</td></tr>
+<tr><td class=bpt>Amman Koil</td><td class=tim>6.24</td></tr>
+<tr><td class=bpt>Kumaran Kundram</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>Bharathi Nagar Auto Stand</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Santorium TB Hospital</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Tambaram Santorium Bus Stand</td><td class=tim>6.34</td></tr>
+<tr><td class=bpt>Gandhi Road Sudar Hospital</td><td class=tim>6.41</td></tr>
+<tr><td class=bpt>The Madras Deva Sadan School</td><td class=tim>6.43</td></tr>
+<tr><td class=bpt>Srinivasapuram</td><td class=tim>6.44</td></tr>
+<tr><td class=bpt>Madha College </td><td class=tim>7.00 </td></tr>
+<tr><td class=bpt>Nallur </td><td class=tim>7.10 </td></tr>
+<tr><td class=bpt>Katrambakkam </td><td class=tim>7.20 </td></tr>
+<tr><td class=bpt>Sipcot Roundtana </td><td class=tim>7.30 </td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font>
+Outer Ring Road</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>
+
+
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>48</td>
+
+	<td colspan=1 class=rno>20</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map20.php'>Kamatchi Hospital (Pallikaranai) <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n20.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>20. Kamatchi Hospital (Pallikaranai)   </td></tr>
+<tr><td class=bpt>Kamachi Hospital</td><td class=btim>6.15 am</td></tr>
+<tr><td class=bpt>Narayanapuram</td><td class=tim>6.17</td></tr>
+<tr><td class=bpt>Pallikaranai Oil Mill</td><td class=tim>6.19</td></tr>
+<tr><td class=bpt>Pallikaranai Govt School</td><td class=tim>6.21</td></tr>
+<tr><td class=bpt>Pallikaranai Jayachandran</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>Medavakkam Bus Stop</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Medavakkam Koot Road</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Vijaya Nagaram</td><td class=tim>6.29</td></tr>
+<tr><td class=bpt>Santhoshpuram</td><td class=tim>6.31</td></tr>
+<tr><td class=bpt>Kaveribakkam</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Sembakkam</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Kamarajapuram</td><td class=tim>6.37</td></tr>
+<tr><td class=bpt>Raja Kilpakkam</td><td class=tim>6.39</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font>
+Tambaram, Chennai Outer Ring Road</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+	
+	<tr>
+	<td colspan=1 class=sno>49</td>
+
+	<td colspan=1 class=rno>20B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map20b.php'>Mambakkam<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n20b.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>20B. Mambakkam </td></tr>
+<tr><td class=bpt>Mambakkam</td><td class=btim>6.10 am</td></tr>
+<tr><td class=bpt>Mambakkam Sivan Koil</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>Thiruvanchery</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Theeder Nagar</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Bharath Engineering College</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Indra Nagar</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>Camp Road Signal</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt>Selayur Police Station</td><td class=tim>6.46</td></tr>
+<tr><td class=bpt>Christ King School</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>MCC </td><td class=tim>6.55</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font>
+Tambaram Outer Ring Road</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.10 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+
+	<tr>
+	<td colspan=1 class=sno>50</td>
+
+	<td colspan=1 class=rno>20C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map20c.php'> Madipakkam <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n20c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>20C. Madippakam</td></tr>
+<tr><td class=bpt>Ponniamman Koil</td><td class=btim>6.20 am</td></tr>
+<tr><td class=bpt>Indian Oil Petrol Bunk</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>Sathasiva Nagar</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>Ram Nagar</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Kaiveli</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Tambaram Outer Ring Road</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>51</td>
+
+	<td colspan=1 class=rno>21</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map21.php'> Adhambakkam <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n21.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>21. Adambakkam</td></tr>
+<tr><td class=bpt>Kakkanpalam</td><td class=btim>6.25 am</td></tr>
+<tr><td class=bpt>Arun Ice Parler</td><td class=tim>6.28</td></tr>
+<tr><td class=bpt>Prem Care Hospital</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Puzuthiwakkam Raod</td><td class=tim>06;32</td></tr>
+<tr><td class=bpt>Sakthi Cars</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Thillai Ganga Nagar Sub Way</td><td class=tim>6.38</td></tr>
+<tr><td class=bpt>Alandur Court </td><td class=tim>6.40</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font>
+Tambaram Outer Ring Road</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.25 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+<!--
+	<tr>
+	<td colspan=1 class=sno>52</td>
+
+	<td colspan=1 class=rno>21B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map21b.php'>Kaiveli<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n21b.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>21B. Kaiveli	</td></tr>
+<tr><td class=bpt>Kaiveli Signal</td><td class=btim>6.30 am</td></tr>
+<tr><td class=bpt>Velachery Rly Station</td><td class=tim>6:32 </td></tr>
+<tr><td class=bpt>Thillai Ganga Nagar Subway</td><td class=tim>6:38 </td></tr>
+<tr><td class=bpt>Pallavaram Signal</td><td class=tim>6:45 </td></tr>
+<tr><td colspan=2 class=bpt><font color="#ff0000">via - Non Stop</font> 
+<font color="#999999">Tambaram, Outer Ring Road</font></td></tr>
+<tr><td class=bbpt>College campus	</td><td class=tim>7.40 am
+</table>
+
+	
+	
+	
+	
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+-->	
+	
+	<tr>
+	<td colspan=1 class=sno>52</td>
+
+	<td colspan=1 class=rno>21C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map21c.php'>Velachery <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n21c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>21C. Velachery </td></tr>
+<tr><td class=bpt>Thandeeswarm Bus Stand</td><td class=btim>6.14 am</td></tr>
+<tr><td class=bpt>Race Course Road</td><td class=tim>6.18</td></tr>
+<tr><td class=bpt>Maduvenkari</td><td class=tim>6.19</td></tr>
+<tr><td class=bpt>Shanthi Apartment</td><td class=tim>6.22</td></tr>
+<tr><td class=bpt>Adambakkam NGO Colony Depot</td><td class=tim>6.24</td></tr>
+<tr><td class=bpt>St.Thomas Mount Rly Station</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Jayalakshmi Theatre</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Surender Nagar</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Aazarkhana Bus Stand</td><td class=tim>6.35</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font>
+Butt Road, Poonamallee Bype Pass</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.14 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>53</td>
+
+	<td colspan=1 class=rno>22</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map22.php'>Sholinganallur (OMR) <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n22.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>22. Sholinganallur (OMR)</td></tr>
+<tr><td class=bpt>Sholinganallur</td><td class=btim>5.50 am</td></tr>
+<tr><td class=bpt>Saravana Stores</td><td class=tim>5.55</td></tr>
+<tr><td class=bpt>Karapakkam Bus Stop</td><td class=tim>6.00</td></tr>
+<tr><td class=bpt>RRE Bus Stop</td><td class=tim>6.10</td></tr>
+<tr><td class=bpt>Thorapakkam</td><td class=tim>6.12</td></tr>
+<tr><td class=bpt>Perunkudi</td><td class=tim>6.13</td></tr>
+<tr><td class=bpt>MGR Road</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>Thramani Rly Station</td><td class=tim>6.17</td></tr>
+<tr><td class=bpt>Baby Nagar</td><td class=tim>6.24</td></tr>
+<tr><td class=bpt>Tanci Nagar</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>Vijaya Nagar Kajana Jewlers</td><td class=tim>6.29</td></tr>
+<tr><td class=bpt>Murugan Kalyanamandabam</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Krishna Sweets</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Velachery Chekpost</td><td class=tim>6.35</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font>
+Butt Road, Poonamallee Bype Pass</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.50 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>54</td>
+
+	<td colspan=1 class=rno>23</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map23.php'>Kovilampakkam <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n23.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>23. Kovilampakkam</td></tr>
+<tr><td class=bpt>Kovilambakkam </td><td class=btim>6.15 am</td></tr>
+<tr><td class=bpt>Veramani Nagar</td><td class=tim>6.17</td></tr>
+<tr><td class=bpt>Ganesh Nagar</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>Kumaran Theatre</td><td class=tim>6.29</td></tr>
+<tr><td class=bpt>Krishna Sweets</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Nanganallur 1st Main Road</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Roja Medical</td><td class=tim>6.37</td></tr>
+<tr><td class=bpt>Pallavaram Signal</td><td class=tim>6.45</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font>
+Outer Ring Road</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>55</td>
+
+	<td colspan=1 class=rno>23C</td>
+<td colspan=2 class=route><a class=info href='/recroutes/map23c.php'>Keelkatalai<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n23c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>23C. Keelkatalai</td></tr>	
+<tr><td class=bpt>Keelkatalai Bus Stand</td><td class=btim>6.25 am</td></tr>
+<tr><td class=bpt>UTI </td><td class=tim>6.28</td></tr>
+<tr><td class=bpt>Madipakkam Koot Road</td><td class=tim>6.29</td></tr>
+<tr><td class=bpt>Ulagaram Oil Mill</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Vanumpet Church</td><td class=tim>6.34</td></tr>
+<tr><td class=bpt>Chiambaram Stores</td><td class=tim>6.36</td></tr>
+<tr><td class=bpt>Pavavanthangal Sub Way</td><td class=tim>6.37</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font>
+Outer Ring Road</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.25 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>56</td>
+
+	<td colspan=1 class=rno>24</td>
+
+	<td colspan=2 class=route><a class=info href='/recroutes/map24.php'>Nanganallur <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n24.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2  class=bbpt>24. Nanganallur</td></tr>
+<tr><td class=bpt>Mooversanpet Kulam</td><td class=btim>6.25 am</td></tr>
+<tr><td class=bpt>Ealuruammn Koil</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>J.K.Mahal</td><td class=tim>6.29</td></tr>
+<tr><td class=bpt>Nanganallur Bus Stand</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Ranga Theatre</td><td class=tim>6.31</td></tr>
+<tr><td class=bpt>Indipendence Day Park</td><td class=tim>6.32</td></tr>
+<tr><td colspan=2  class=bpt><font color=#ff0000>via - Non Stop </font>
+Outer Ring Road</td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.25 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>57</td>
+
+	<td colspan=1 class=rno>24C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map24c.php'>Chrompet <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n24c.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td colspan=2 class=bbpt>24C. Chrompet</td></tr>
+<tr><td class=bpt>Chrompet MIT Bridge</td><td class=time ><b>6.40 am</td></tr>
+<tr><td class=bpt>Chrompet Bus Stop</td><td class=tim>6.42</td></tr>
+<tr><td class=bpt>Saravana Stores</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt>Nagalkeni</td><td class=tim>6.48</td></tr>
+<tr><td class=bpt>ESSAR petrol bunk</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>Lakshmi Nagar</td><td class=tim>6.53</td></tr>
+<tr><td class=bpt>Thiruneer Malai</td><td class=tim>6.58</td></tr>
+<tr><td class=bpt>Thirumudivakkam Amar Prakash Appartment</td><td class=tim>7.02</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Outer Ring Road</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>58</td>
+
+	<td colspan=1 class=rno>25</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map25.php'>VGP (ECR) <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n25.php">Timing<span>
+	<table width="100%">
+
+<tr><td colspan=2 class=bbpt>25. VGP (ECR)</td></tr>
+<tr><td class=bpt>VGB</td><td class=btim>6.00 am</td></tr>
+<tr><td class=bpt>Vettuvakani</td><td class=tim>6.08</td></tr>
+<tr><td class=bpt>Neelankarai Puhari</td><td class=tim>6.11</td></tr>
+<tr><td class=bpt>Neelankarai Police Station</td><td class=tim>6.13</td></tr>
+<tr><td class=bpt>Palavakkam Anoty Church</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>Palavakkam Periyar Street</td><td class=tim>6.17</td></tr>
+<tr><td class=bpt>Kotivakkam Bus Stop</td><td class=tim>6.19</td></tr>
+<tr><td class=bpt>Thiruvanmiur RTO Office</td><td class=tim>6.21</td></tr>
+<tr><td class=bpt>Murutheswarar Koil</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>Thiruvanmiur Depot</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Thiruvanmiur Signal</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>Tidel Park</td><td class=tim>6.28</td></tr>
+<tr><td class=bpt>Butt Road</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>Sangeetha Hotel Signal</td><td class=tim>6.42</td></tr>
+<tr><td class=bpt>Kumanan Chavadi Petrol Bunk</td><td class=tim>7.00</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.00 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>59</td>
+
+	<td colspan=1 class=rno>25C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map25c.php'>Adyar <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n25c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>25C. Adyar </td></tr>
+<tr><td class=bpt>Indra Nagar Water Tank</td><td class=btim>6.15 am </td></tr>
+<tr><td class=bpt>Besant Nagar</td><td class=tim>6.18</td></tr>
+<tr><td class=bpt>BSNL Office Adyar</td><td class=tim>6.22</td></tr>
+<tr><td class=bpt>Adyar Signal</td><td class=tim>6.24</td></tr>
+<tr><td class=bpt>Adyar Bus Stand (Ambica Appalam)</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>Madhya Kailash</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Le Royal Meridian (Guindy)</td><td class=tim>6.38</td></tr>
+<tr><td class=bpt>Butt Road</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>60</td>
+
+	<td colspan=1 class=rno>26</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map26.php'>Triplicane <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n26.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>26. Triplicane </td></tr>
+<tr><td class=bpt>D1 Police Station</td><td class=btim>6.05 am</td></tr>
+<tr><td class=bpt>Rathna Café</td><td class=tim>6.08</td></tr>
+<tr><td class=bpt>ICE House</td><td class=tim>6.12</td></tr>
+<tr><td class=bpt>Meesapet Market</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>New College</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Fire Office</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>Kattupakkam Muniswarn Koil</td><td class=tim>7.00</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+ Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.05 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>61</td>
+
+	<td colspan=1 class=rno>26C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map26c.php'>Nandanam <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n26c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>26C. Nandanam</td></tr>		
+<tr><td class=bpt>Venkatnarayana Road</td><td class=btim>6.15 am</td></tr>
+<tr><td class=bpt>GRT Grand Days Hotel</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Tenampet Signal</td><td class=tim>6.22</td></tr>
+<tr><td class=bpt>SIET Signal</td><td class=tim>6.24</td></tr>
+<tr><td class=bpt>Nandanam Signal</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>Saidapet (Metro Station)</td><td class=tim>6.28</td></tr>
+<tr><td class=bpt>Kalaignar Arch</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Chinnamalai Court</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Kattupakkam (Hyndai Showroom)</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>Kattupakkam Bus Stop</td><td class=tim>6.55</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+ Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>62</td>
+
+	<td colspan=1 class=rno>27</td>
+
+	<td colspan=2 class=route><a class=info href='/recroutes/map27.php'>Pattinapakkam <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n27.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>27. Pattinapakkam</td><td class=tim></td></tr>
+<tr><td class=bpt>Airtel Office</td><td class=btim>6.00 am</td></tr>
+<tr><td class=bpt>Mandaveli Bus Depot</td><td class=tim>6.03</td></tr>
+<tr><td class=bpt>Devanathan Street</td><td class=tim>6.05</td></tr>
+<tr><td class=bpt>Mandaveli Post office </td><td class=tim>6.07</td></tr>
+<tr><td class=bpt>Billrtoth Hospital</td><td class=tim>6.11</td></tr>
+<tr><td class=bpt>C.P.Ramasamy Road</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>TTK Road</td><td class=tim>6.17</td></tr>
+<tr><td class=bpt>Adyar Gate Hotel</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Kotturpuram</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Butt Road,  Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.00 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>63</td>
+
+	<td colspan=1 class=rno>27C</td>
+
+	<td colspan=2 class=route><a class=info href='/recroutes/map27c.php'>Santhome (Light house) <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n27c.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>27C. Santhome (Light house)</td><td class=tim></td></tr>
+<tr><td class=bpt>Light House</td><td class=btim>6.05 am</td></tr>
+<tr><td class=bpt>Santhome</td><td class=tim>6.08</td></tr>
+<tr><td class=bpt>Jain Temple</td><td class=tim>6.10</td></tr>
+<tr><td class=bpt>Luz Corner</td><td class=tim>6.12</td></tr>
+<tr><td class=bpt>Vivekanada College</td><td class=tim>6.13</td></tr>
+<tr><td class=bpt>New Woodlands</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>Music Acadmy</td><td class=tim>6.16</td></tr>
+<tr><td class=bpt>Stalla Marrys College3</td><td class=tim>6.18</td></tr>
+<tr><td class=bpt>Kattupaakam Maran Garden</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.05 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+
+	<tr>
+	<td colspan=1 class=sno>64</td>
+
+	<td colspan=1 class=rno>28</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map28.php'>LIC <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n28.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>28. LIC</td><td width=90 class=tim></td></tr>
+
+<tr><td class=bpt>LIC</td><td class=btim>6.10 am</td></tr>
+<tr><td class=bpt>Royapettah Clock Tower</td><td class=tim>6.11</td></tr>
+<tr><td class=bpt>Nungambakkam Police Station</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Bharathy Nagar</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>Liberty</td><td class=tim>6.28</td></tr>
+<tr><td class=bpt>Power House</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Sivan Koil</td><td class=tim>6.34</td></tr>
+<tr><td class=bpt>Lakshman Sruthi</td><td class=tim>6.36</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Porur, Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.10 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>65</td>
+
+	<td colspan=1 class=rno>28C</td>
+
+		<td colspan=2 class=route><a class=info href='/recroutes/map28c.php'>Vadapalani <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n28c.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>28C. Vadapalani</td><td  class=tim></td></tr>
+<tr><td class=bpt>Samiyarmadam</td><td class=btim>6.25 am</td></tr>
+<tr><td class=bpt>Lakshman Sruthi Opposite</td><td class=tim>6.28</td></tr>
+<tr><td class=bpt>Vadapalni Depot</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Avichi School</td><td class=tim>6.36</td></tr>
+<tr><td class=bpt>Lamax School</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>Karampakkam Bus Stop</td><td class=tim>6.47</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Porur, Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.25 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>66</td>
+	<td colspan=1 class=rno>29</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map29.php'>Saligramam<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n29.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>29. Saligramam</td><td  class=tim></td></tr>
+<tr><td class=bpt>Surya Hospital</td><td class=btim>6.30 am</td></tr>
+<tr><td class=bpt>Parvathi Bhavan</td><td class=tim>6.31</td></tr>
+<tr><td class=bpt>Dasarathapuram</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Sudharma Mahal</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Kamachi Store</td><td class=tim>6.36</td></tr>
+<tr><td class=bpt>Saligramam Bus Stand</td><td class=tim>6.37</td></tr>
+<tr><td class=bpt>AVM Colony</td><td class=tim>6.39</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Porur, Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>67</td>
+	<td colspan=1 class=rno>29C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map29c.php'>Alwarthirunagar</font><span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n29c.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>29C. Alwarthirunagar</td><td  class=tim></td></tr>
+<tr><td class=bpt>Mega Mart</td><td class=btim>6.40 am</td></tr>
+<tr><td class=bpt>Valasaravakkam Signal</td><td class=tim>6.43</td></tr>
+<tr><td class=bpt>via - Non Stop </font><br>
+Porur,Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+	<tr>
+	<td colspan=1 class=sno>68</td>
+
+	<td colspan=1 class=rno>30</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map30.php'>Chinmaya Nagar <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n30.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>30. Chinmaya Nagar</td><td  class=tim></td></tr>
+<tr><td class=bpt>Chinmaya Nagar Bus Stop</td><td class=btim>6.30 am</td></tr>
+<tr><td class=bpt>Sai Nagar Bus Stop</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Natesan Nagar Bus Stop</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Porur, Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>69</td>
+
+	<td colspan=1 class=rno>30C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map30c.php'>Elango Nagar <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n30c.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>30C. Elango Nagar</td><td  class=tim></td></tr>
+<tr><td class=bpt>Elango Nagar</td><td class=btim>6.40 am</td></tr>
+<tr><td class=bpt>Virugambakkam Market</td><td class=tim>6.42</td></tr>
+<tr><td class=bpt>Kesavarthini</td><td class=tim>6.44</td></tr>
+<tr><td class=bpt>Friends Park Hotel</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt>Lakshmi Nagar</td><td class=tim>6.47</td></tr>
+<tr><td class=bpt>Saibaba Koil (Kumanan Chavadi)</td><td class=tim>7.05</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+
+	<tr>
+	<td colspan=1 class=sno>70</td>
+
+	<td colspan=1 class=rno>31</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map31.php'>Valluvarkottam <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n31.php">Timing<span>
+	<table width="100%">
+
+<tr><td class=bbpt>31. Valluvarkottam</td><td  class=tim></td></tr>
+<tr><td class=bpt>Valluvarkottam</td><td class=btim>6.15 am</td></tr>
+<tr><td class=bpt>Habibullah Road</td><td class=tim>6.18</td></tr>
+<tr><td class=bpt>Ragavaiah Road</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Panagal Park</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>Duraisamy Subway</td><td class=tim>6.24</td></tr>
+<tr><td class=bpt>SRM Hospitel</td><td class=btim>6.25 am</td></tr>
+<tr><td class=bpt>G.P.Road (West Mambalam)</td><td class=tim>6.26</td></tr>
+<tr><td class=bpt>Ayodhya Mandapam</td><td class=tim>6.28</td></tr>
+<tr><td class=bpt>Postal Colony</td><td class=tim>6.29</td></tr>
+<tr><td class=bpt>Sangamam Hotel</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Kathipara, Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+
+</table>
+
+<!-- 
+
+31 timing modified earler by 5 min in all points...Ref jan-n31.php
+
+31c points combined in sep 2019
+<tr><td class=bpt>SRM Hospitel</td><td class=btim>6.30 am</td></tr>
+<tr><td class=bpt>G.P.Road (West Mambalam)</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Ayodhya Mandapam</td><td class=tim>6.35</td></tr>
+-->
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>71</td>
+
+	<td colspan=1 class=rno>32</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map32.php'>CIT.Nagar <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n32.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>32. CIT nagar</td><td class=tim></td></tr>
+<tr><td class=bpt>CIT Nagar Bus Stop</td><td class=btim>6.15 am</td></tr>
+<tr><td class=bpt>Vasanth & Co</td><td class=tim>6.18</td></tr>
+<tr><td class=bpt>Aranganathan Sub Way</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Srinivasa Theatre</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Metupalayam</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Blue Tank</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Ramapuram Signal</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>DLF</td><td class=tim>6.38</td></tr>
+<tr><td class=bpt>via - Non Stop </font><br>
+Porur,  Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>72</td>
+
+	<td colspan=1 class=rno>32C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map32c.php'>Ashok Pillar <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n32c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>32C. Ashok Pillar</td></tr>
+<tr><td class=bpt>Pallava Hospital</td><td class=btim>6.25 am</td></tr>
+<tr><td class=bpt>Ashok Pillar (ICICI Bank)</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Ashok Pillar Bus Stop</td><td class=tim>6.28</td></tr>
+<tr><td class=bpt>Kasi Theatre</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Ekkatuthangal</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Ammbal Nagar</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Kathipara, Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>
+<!-- 7th Feb 2020
+<tr><td colspan=2 class=bbpt>32C. Ashok Pillar</td></tr>
+<tr><td class=bpt>Pallava Hospital</td><td class=btim>6.30 am</td></tr>
+<tr><td class=bpt>Ashok Pillar (ICICI Bank)</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Ashok Pillar Bus Stop</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Kasi Theatre</td><td class=tim>6.34</td></tr>
+<tr><td class=bpt>Ekkatuthangal</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Ammbal Nagar</td><td class=tim>6.36</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Kathipara, Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+-->	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.25 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+
+	<tr>
+	<td colspan=1 class=sno>73</td>
+
+	<td colspan=1 class=rno>33</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map33.php'>MGR.Nagar <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n33.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>33. M.G.R.Nagar</td><td  class=tim></td></tr>
+<tr><td class=bpt>Nagathamman Koil (PTR Salai)</td><td class=btim>6.20 am</td></tr>
+<tr><td class=bpt>K.K.Nagar Pillaiyar koil </td><td class=tim> 6.22</td></tr>
+<tr><td class=bpt>Hotel Saravana Bhavan</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>MGR Nagar Market</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Porur Bus Stand</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Porur Erikarai</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Kattupakkam Petrol Bunk</td><td class=tim> 6.45</td></tr>
+<tr><td class=bpt colspan=2 ><font color="#ff0000">via - Non Stop</font>
+<font color="#999999">Porur,
+Poonamallee Bye Pass</font></td></tr>
+<tr><td class=bbpt>College campus</td><td class=tim>7.40 am</td></tr>
+</table>
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>74</td>
+
+	<td colspan=1 class=rno>33C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map33c.php'>KK Nagar <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n33c.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>33C. KK Nagar</td><td class=tim></td></tr>
+<tr><td class=bpt>Nesapakkam</td><td class=btim>6.35 am</td></tr>
+<tr><td class=bpt>Pondichery Guest House</td><td class=tim>6.37</td></tr>
+<tr><td class=bpt>Virugampakkam Vempuliamman Koil</td><td class=tim>6.42</td></tr>
+<tr><td class=bpt>Porur Bus Stand</td><td class=tim>6.55</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.35 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>75</td>
+
+	<td colspan=1 class=rno>34</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map34.php'>Pour Ramachandra <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n34.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>34. Pour Ramachandra</td><td class=tim></td></tr>
+<tr><td class=bpt>Ramachandra</td><td class=btim>6.45 am</td></tr>
+<tr><td class=bpt>Munisvaran Koil (Kattupakkam)</td><td class=tim>6.53</td></tr>
+<tr><td class=bpt>Kumananchavadi (EVP Mal)</td><td class=tim>6.55</td></tr>
+<tr><td class=bpt>Ambettakar Silai</td><td class=tim>7.15</td></tr>
+<tr><td class=bpt>Nasarathpet Bus Stop</td><td class=tim>7.18</td></tr>
+<tr><td class=bpt>Nasarathpet Petrol Bunk</td><td class=tim>7.20</td></tr>
+<tr><td class=bpt>Chembarambakkam Police Booth</td><td class=tim>7.25</td></tr>
+<tr><td class=bpt>Godrej Apartment</td><td class=tim>7.30</td></tr>
+<tr><td class=bpt>RIT</td><td class=tim>7.32</td></tr>
+<tr><td class=bpt>St Johan~s School Palanchur</td><td class=tim>7.35</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.45 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+
+	<tr>
+	<td colspan=1 class=sno>76</td>
+
+	<td colspan=1 class=rno>35</td>
+
+		<td colspan=2 class=route><a class=info href='/recroutes/map35.php'>Pammal<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n35.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>35. Pammal</td><td  class=tim></td></tr>
+<tr><td class=bpt>Therasa School</td><td class=btim>6.30 am</td></tr>
+<tr><td class=bpt>Puthur Koil</td><td class=tim>6.31</td></tr>
+<tr><td class=bpt>Krishna Nagar</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Pozhihcalur Church</td><td class=tim>6.34</td></tr>
+<tr><td class=bpt>Pammal</td><td class=tim>6.36</td></tr>
+<tr><td class=bpt>Arulmani Theatre</td><td class=tim>6.38</td></tr>
+<tr><td class=bpt>Indian Bank</td><td class=tim>6.39</td></tr>
+<tr><td class=bpt>Amman Koil Anagaputhur</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>Anagaputhur</td><td class=tim>6.41</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>77</td>
+
+	<td colspan=1 class=rno>35C</td>
+
+	<td colspan=2 class=route><a class=info href='/recroutes/map35c.php'>Kundrathur <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n35c.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>35C. Kundrathur</td><td  class=tim></td></tr>
+<tr><td class=bpt>Mananchery</td><td class=btim>6.38 am</td></tr>
+<tr><td class=bpt>Andarkuppam</td><td class=tim>6.39</td></tr>
+<tr><td class=bpt>Kundrathur</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>Sivanthangal</td><td class=tim>6.42</td></tr>
+<tr><td class=bpt>Muthukumaran Bus Stop</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt>Pattu Koot Road</td><td class=tim>6.47</td></tr>
+<tr><td class=bpt>Mangadu</td><td class=tim>6.51</td></tr>
+<tr><td class=bpt>Gangaiamman Koil</td><td class=tim>6.53</td></tr>
+<tr><td class=bpt>Kummananchavadi</td><td class=tim>6.58</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.38 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>78</td>
+
+	<td colspan=1 class=rno>36</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map36.php'>Kovur <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n36.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>36. Kovur</td><td class=tim></td></tr>
+<tr><td class=bpt>Moondram Kattalai</td><td class=time width=90><b>6.30 am</td></tr>
+<tr><td class=bpt>Kovur RTO Office</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Kovur High School</td><td class=tim>6.34</td></tr>
+<tr><td class=bpt>Panicherry</td><td class=tim>6.36</td></tr>
+<tr><td class=bpt>Girugampakkam Bus Stop</td><td class=tim>6.39</td></tr>
+<tr><td class=bpt>Girugampakkam Lakshmi Kalyanamandapam</td><td class=tim>6.41</td></tr>
+<tr><td class=bpt>Kolapakkam Bus Stop</td><td class=tim>6.43</td></tr>
+<tr><td class=bpt>Bai Kadai</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>79</td>
+
+	<td colspan=1 class=rno>36C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map36c.php'>Madhanandapuram <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n36c.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>36C. Madhanandapuram</td><td class=tim></td></tr>
+<tr><td class=bpt>Madhanandapuram Bus Stop</td><td class=btim>6.35 am</td></tr>
+<tr><td class=bpt>Madhanandapuram Petrol Bunk</td><td class=tim>6.38</td></tr>
+<tr><td class=bpt>Porur EB</td><td class=tim>6.39</td></tr>
+<tr><td class=bpt>Porur  Bridge Down</td><td class=tim>6.41</td></tr>
+<tr><td class=bpt>Iyappanthangal</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>
+
+<!--
+10 minutes reduced on 20th Feb 2020 
+-->	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.35 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>80</td>
+
+	<td colspan=1 class=rno>37</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map37.php'>DLF <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n37.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>37. DLF</td><td class=tim></td></tr>
+<tr><td class=bpt>DLF</td><td class=btim>6.45 am</td></tr>
+<tr><td class=bpt>Mugaliwakkam</td><td class=tim>6.47</td></tr>
+<tr><td class=bpt>Mugaliwakkam Bus Stop</td><td class=tim>6.49</td></tr>
+<tr><td class=bpt>Saravana Stores</td><td class=tim>6.31</td></tr>
+<tr><td class=bpt>Police Station</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Poonamallee Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.45 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+	
+	
+	<tr>
+	<td colspan=1 class=sno>81</td>
+
+	<td colspan=1 class=rno>37B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map37b.php'>NIVH Poonamalle <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n37b.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>37B. NIVH Poonamalle</td></tr>
+<tr><td class=bpt>National Institute for the Visually Handicapped</td><td class=time ><b>7.00 am</td></tr>
+<tr><td class=bpt>Govt.Higher Secoundary School</td><td class=tim>7.02</td></tr>
+<tr><td class=bpt>Karayanchavadi Bus Stop</td><td class=tim>7.05</td></tr>
+<tr><td class=bpt>Indian Bank</td><td class=tim>7.08</td></tr>
+<tr><td class=bpt>E.B.Office</td><td class=tim>7.10</td></tr>
+<tr><td class=bpt>Perumal Koil</td><td class=tim>7.12</td></tr>
+<tr><td class=bpt>Golden Apartment (Poonamallee Byepass)</td><td class=tim>7.14</td></tr>
+<tr><td class=bpt>Paraivakkam Signal</td><td class=tim>7.15</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>7.00 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>82</td>
+
+	<td colspan=1 class=rno>37C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map37c.php'>Poonamallee Bus Stand <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n37c.php">Timing<span>
+	<table width="100%">
+<tr><td colspan=2 class=bbpt>37C. Poonamalle Bus stand</td></tr>		
+<tr><td class=bpt>Mosque</td><td class=btim>7.05 am</td></tr>
+<tr><td class=bpt>Market</td><td class=tim>7.08</td></tr>
+<tr><td class=bpt>Harifa Store (Mangalam Hospital)</td><td class=tim>7.10</td></tr>
+<tr><td class=bpt>GRT</td><td class=tim>7.13</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Nasarathpet</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>7.05 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>83</td>
+
+	<td colspan=1 class=rno>38</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map38.php'>Cheyyar  <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n38.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>38. Cheyyar</td><td  class=tim></td></tr>
+<tr><td class=bpt>State Bank</td><td class=btim>5.40 am</td></tr>
+<tr><td class=bpt>Soundari Theatre</td><td class=tim>5.42</td></tr>
+<tr><td class=bpt>Pandiyampakkam</td><td class=tim>6.00</td></tr>
+<tr><td class=bpt>Mangal Koot Road</td><td class=tim>6.10</td></tr>
+<tr><td class=bpt>Mamandur</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>Dusi</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Housing Board</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Kanchipuram collectorate</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>84</td>
+
+	<td colspan=1 class=rno>38C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map38c.php'>Iyyangarkulam Koot Road<span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n38c.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>38C- Iyyangarkulam Koot Road</td></tr>
+<tr><td class=bpt>Manamathi X Road</td><td class=btim>5.55 am</td></tr>
+<tr><td class=bpt>Peru Nagar</td><td class=tim>6.00</td></tr>
+<tr><td class=bpt>Iyyangarkulam</td><td class=tim>6.15 </td></tr>
+<tr><td class=bpt>Punchaiarasanthangal</td><td class=tim>6.17</td></tr>
+<tr><td class=bpt>Sevelimedu</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Kachepeswarar Koil</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Eagabaranathar Koil</td><td class=tim>6.37</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Sripermbuthur bye pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>
+
+
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.55 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>85</td>
+
+	<td colspan=1 class=rno>39</td>
+    <td colspan=2 class=route><a class=info href='/recroutes/map39.php'>Uthiramerur  <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n39.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>39. Uthiramerur</td><td  class=tim></td></tr>
+<tr><td class=bpt>Uthirumerur</td><td class=btim>5.40 am</td></tr>
+<tr><td class=bpt>Karuvappampoondi</td><td class=tim>5.55</td></tr>
+<tr><td class=bpt>Manalmedu</td><td class=tim>5.57</td></tr>
+<tr><td class=bpt>Vengacherry</td><td class=tim>6.00</td></tr>
+<tr><td class=bpt>Magaral</td><td class=tim>6.05</td></tr>
+<tr><td class=bpt>Arpakkam</td><td class=tim>6.10</td></tr>
+<tr><td class=bpt>Kalakatur</td><td class=tim>6.17</td></tr>
+<tr><td class=bpt>Kuruvimalai</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Orikkai</td><td class=tim>6.22</td></tr>
+<tr><td class=bpt>Miltary Road</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Gandhi Nagar</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Keel Gate</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Keeramandapam</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.40 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>86</td>
+
+	<td colspan=1 class=rno>40</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map40.php'>Walajabad <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n40.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>40. Walajabad</td><td width=90 class=tim></td></tr>
+<tr><td class=bpt>New Police Station</td><td class=btim>6.15 am</td></tr>
+<tr><td class=bpt>Chetty Street</td><td class=tim>6.17</td></tr>
+<tr><td class=bpt>Perumal Koil</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Tollgate</td><td class=tim>6.21</td></tr>
+<tr><td class=bpt>Periyar Nagar</td><td class=tim>6.22</td></tr>
+<tr><td class=bpt>Pachyappa College</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>Ayyampet Anjeneyar Koil</td><td class=tim>6.24</td></tr>
+<tr><td class=bpt>Ayyampet Easwearan Koil</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Rajampet</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Keelwottivakkam</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Walajabad</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Waranavasi</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>Oragadam</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.15 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>87</td>
+
+	<td colspan=1 class=rno>40B</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map40b.php'>Rangasamy Kulam <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n40b.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>40B. Rangasamy Kulam</td><td width=90 class=tim></td></tr>
+<tr><td class=bpt>Rengasamy Kulam</td><td class=btim>6.20 am</td></tr>
+<tr><td class=bpt>Mungelmandapam</td><td class=tim>6.23</td></tr>
+<tr><td class=bpt>Thaluk Office</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Gujarathi Chithiram</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Oli Mohamed Pettai (Kori)</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Sripermbathur High School</td><td class=tim>7.15</td></tr>
+<tr><td class=bpt>Rajalakshmi Cars</td><td class=tim>7.18</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.20 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>88</td>
+	<td colspan=1 class=rno>40C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map40c.php'>Kanchipuram Bus Stand <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n40c.php">Timing<span>
+	
+<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>40C. Kanchipuram Bus Stand</td><td  class=tim></td></tr>
+<tr><td class=bpt>Ramas Cafe</td><td class=btim>6.30 am</td></tr>
+<tr><td colspan=2 class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Sunguvar Chathiram, Sriperumbattur bye pass</tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>89</td>
+
+	<td colspan=1 class=rno>41</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map41.php'>Ranipet <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n41.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>41. Ranipet</td>    <td  class=tim>    </td></tr>
+<tr><td class=bpt>Rajeswari Theatre</td><td class=btim>6.00 am</td></tr>
+<tr><td class=bpt>Ranipet Old Bus Stand</td><td class=tim>6.02</td></tr>
+<tr><td class=bpt>Muthukadai</td><td class=tim>6.05</td></tr>
+<tr><td class=bpt>Walajapet GH</td><td class=tim>6.07</td></tr>
+<tr><td class=bpt>Walajapet Bus Stand</td><td class=tim>6.10</td></tr>
+<tr><td class=bpt>Housing Board</td><td class=tim>6.12</td></tr>
+<tr><td class=bpt>AAA College</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>Walajapet Toll Gate</td><td class=tim>6.17</td></tr>
+<tr><td class=bpt>Kaveripakkam</td><td class=tim>6.18</td></tr>
+<tr><td class=bpt>Thamal</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Balu chetty</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Sripermbathur Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.00 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	<tr>
+	<td colspan=1 class=sno>90</td>
+
+	<td colspan=1 class=rno>41C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map41c.php'>Vellore <span>Click to see the route map</span></a></td>
+	   </td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n41c.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>41C.  Vellore</td><td  class=tim></td></tr>
+<tr><td class=bpt>Vellore Rountana</td><td class=btim>5.30 am</td></tr>
+<tr><td class=bpt>Sathuvachari</td><td class=tim>5.35</td></tr>
+<tr><td class=bpt>Vallar</td><td class=tim>5.37</td></tr>
+<tr><td class=bpt>Pootuthakal</td><td class=tim>5.45</td></tr>
+<tr><td class=bpt>Arcot</td><td class=tim>6.00</td></tr>
+<tr><td class=bpt>Ranipet Byepass</td><td class=tim>6.03</td></tr>
+<tr><td class=bpt>Walaja Toll Booth</td><td class=tim>6.10</td></tr>
+<tr><td class=bpt>Baguwali Koot Road</td><td class=tim>6.13</td></tr>
+<tr><td class=bpt>Ponerikarai</td><td class=tim>6;45</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Sriperumbathur Bye Pass</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.30 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	
+	<tr>
+	<td colspan=1 class=sno>91</td>
+
+	<td colspan=1 class=rno>42</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map42.php'>Arakkonam  <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n42.php">Timing<span>
+	<table width=100% cellpadding=1 cellspacing=1>
+<tr><td class=bbpt>42. Arakkonam</td><td  class=tim></td></tr>
+<tr><td class=bpt>Indra Gandhi Statue</td><td class=btim>6.10 am</td></tr>
+<tr><td class=bpt>Suvalpet</td><td class=tim>6.12</td></tr>
+<tr><td class=bpt>Old Bus Stand</td><td class=tim>6.13</td></tr>
+<tr><td class=bpt>New Bus Stand</td><td class=tim>6.15</td></tr>
+<tr><td class=bpt>Winterpet</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>SR Gate</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Venketasapuram Bus Stand</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Thandalam Koot Road</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.10 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+
+	<tr>
+	<td colspan=1 class=sno>92</td>
+
+	<td colspan=1 class=rno>42C</td>
+	<td colspan=2 class=route><a class=info href='/recroutes/map42c.php'>Sholingur <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n42c.php">Timing<span>
+	
+<table width=100% cellpadding=1 cellspacing=1 >
+<tr><td class=bbpt>42C. Sholingur </td></tr>
+<tr><td class=bpt>Sholingur Bus Stand</td><td class=btim>5.35 am</td></tr>
+<tr><td class=bpt>Karumaiamman Koil</td><td class=tim>5.36</td></tr>
+<tr><td class=bpt>Salai</td><td class=tim>6.00</td></tr>
+<tr><td class=bpt>Chitteri X Road</td><td class=tim>6.05</td></tr>
+<tr><td class=bpt>Gumpinipettai</td><td class=tim>6.10</td></tr>
+<tr><td class=bpt>Chinnakayanoor Bridge</td><td class=tim>6.11</td></tr>
+<tr><td class=bpt>Venkatesapuram</td><td class=tim>6.18</td></tr>
+<tr><td class=bpt>Perumuchi</td><td class=tim>6.20</td></tr>
+<tr><td class=bpt>Thakkolam Koot Road</td><td class=tim>6.25</td></tr>
+<tr><td class=bpt>Kadamnallur</td><td class=tim>6.27</td></tr>
+<tr><td class=bpt>Thakkolam EB</td><td class=tim>6.30</td></tr>
+<tr><td class=bpt>Thakkolam Malebazar</td><td class=tim>6.32</td></tr>
+<tr><td class=bpt>Thakkolam Keelbazar</td><td class=tim>6.33</td></tr>
+<tr><td class=bpt>Thakkolam Petrol bunk</td><td class=tim>6.35</td></tr>
+<tr><td class=bpt>Marimangalam</td><td class=tim>6.40</td></tr>
+<tr><td class=bpt>Narasingapuram</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt>Permbakkam</td><td class=tim>6.48</td></tr>
+<tr><td class=bpt>Koovam</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>Kondancheri</td><td class=tim>6.52</td></tr>
+<tr><td class=bpt>Moppedu</td><td class=tim>6.56</td></tr>
+<tr><td class=bpt>Vooluthai</td><td class=tim>7.05</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Thandalam Koot Road</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table></div>
+	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.35 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	    
+	<tr>
+	<td colspan=1 class=sno>93</td>
+
+	<td colspan=1 class=rno>43</td>
+    <td colspan=2 class=route><a class=info href='/recroutes/map43.php'>Thiruthani  <span>Click to see the route map</span></a></td>
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n43.php">Timing<span>
+	<table width="100%">
+<tr><td class=bbpt>43.Thiruthani</td><td  class=time </td></tr>
+<tr><td class=bpt>Thirupathi Bye Pass</td><td class=btim>5.45 am</td></tr>
+<tr><td class=bpt>Kanakammachathram</td><td class=tim>6.05</td></tr>
+<tr><td class=bpt>Ramanjeri</td><td class=tim>6.10</td></tr>
+<tr><td class=bpt>Catter Piller</td><td class=tim>6.45</td></tr>
+<tr><td class=bpt>Melnallathur</td><td class=tim>6.47</td></tr>
+<tr><td class=bpt>Polivakkam</td><td class=tim>6.50</td></tr>
+<tr><td class=bpt>Mannur</td><td class=tim>7.05</td></tr>
+<tr><td class=bpt>Valarupuram</td><td class=tim>7.10</td></tr>
+<tr><td class=bpt>Kel Valarpuram</td><td class=tim>7.15</td></tr>
+<tr><td class=bpt><font color=#ff0000>via - Non Stop </font><br>
+Thandalam Koot Road</td><td class=tim></td></tr>
+<tr><td class=bpt>College campus</td><td class=tim>7.40 am</td></tr>
+
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>5.45 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+
+	    
+	   	<tr>
+	<td colspan=1 class=sno>94</td>
+
+	<td colspan=1 class=rno>44</td>
+    <td colspan=2 class=route><a class=info href='/recroutes/map44.php'>Nemili-Panappakkam  <span>Click to see the route map</span></a></td>
+
+	<td colspan=1 class=timing>
+	<a class=info href="nrouteBox/n44.php">Timing<span>
+	
+<table width=100% cellpadding=1 cellspacing=1 >
+<tr><td colspan=2 class=bbpt>44. Nemili-Panappakkam </td></tr>
+<tr><td class=bpt>Nemili Bus Stand </td><td class=btim> 6:05 am</td></tr>
+<tr><td class=bpt>Vetangulam </td><td class=tim> 6:08 </td></tr>
+<tr><td class=bpt>Reddyvalam </td><td class=tim> 6:12 </td></tr>
+<tr><td class=bpt>Panapakkam </td><td class=tim> 6:15 </td></tr>
+<tr><td class=bpt>Aayarpadi </td><td class=tim> 6:20 </td></tr>
+<tr><td class=bpt>Ocheri </td><td class=tim> 6:22 </td></tr>
+<tr><td class=bpt>Baluchetti </td><td class=tim> 6:35 </td></tr>
+<tr><td class=bpt>Vellagate (Sakthiganapthy Hotel) </td><td class=tim> 6:40 </td></tr>
+<tr><td class=bpt>Meenachi College (KPM) </td><td class=tim> 6:45 </td></tr>
+<tr><td class=bpt>Rajakulam </td><td class=tim> 6:50 </td></tr>
+<tr><td class=bpt>Sathankulam </td><td class=tim> 6:52 </td></tr>
+<tr><td class=bpt>Pillaichatram </td><td class=tim> 6:55 </td></tr>
+<tr><td class=bpt>Sunguvar Chatram Bus Stand </td><td class=tim> 7:05 </td></tr>
+<tr><td class=bpt>Mambakkam </td><td class=tim> 7:10 </td></tr>
+<tr><td class=bpt>Sriperumbuthur Bus Stand </td><td class=tim> 7:20 </td></tr>
+<tr><td class=bpt>College Campus </td><td class=tim> 7:45 am</td></tr>
+</table>	</span>
+	</a>
+	</td>
+	<td class=start align=center>6.05 am</td>
+	<td colspan=1 class=tick1>&radic;</td>
+	<td colspan=1 class=tick2>&radic;</td>
+	</tr>
+ 	<tr><td colspan=6 style="border:0;">
+ <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ 	</td></tr> </table>
+
+
+
+  </div>
+  <div class="right">
+
+<div width=300 class=tick1  style="padding-top:8px;border:solid 1px #999; font:bold 16px arial; text-align:center;height:21px;">Quick View</div>
+<div width=100% a style="border:0;">
+<tr><td  class=sbor>
+<span class=bgmidc>Morning to College </span> <br>
+<span class=or0> All </span>buses in <span class=or> all </span> routes <br><br>
+
+
+<span class=bgmidy>Return after 3.10 pm</span> <span class=gr>  </span> <br>
+<span class=or> 85 </span>buses in <span class=or> Combined </span> routes <br><br>
+
+<span class=bgmidy>Return after  5.05 pm</span> <span class=gr> Admin </span> <br>
+
+<span class=or> 1 </span>bus to <span class=or> Guindy </span> via  <span class=via>Nanganallur,  Kovilambakkam parking  </span><br>
+<span class=or> 1 </span>bus to <span class=or> Central </span>  via  <span class=via> Toyota Show Room </span><br>
+<span class=or> 1 </span>bus to <span class=or> Tambaram </span>  via  <span class=via> Outer ring road </span><br>
+<span class=or> 1 </span>bus to <span class=or> Ambattur OT </span>  via  <span class=via> Avadi </span><br>
+<span class=or> 1 </span>bus to <span class=or> Kanchipuram </span> <br><br>
+<!--
+<span class=or> 1 </span>bus to <span class=or> Guindy </span>   <span class=via> </span><br>
+<span class=or> 1 </span>bus to <span class=or> Toyota Show Room </span>   <span class=via> </span><br><br>
+-->
+</td></tr></div>
+</div>
+  </div>
+  
+  
+
+</div>
+
+</body></html>

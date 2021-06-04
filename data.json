@@ -1,0 +1,6456 @@
+{
+    "01": [
+        {
+            "location": "1.Ennore Bus Stand",
+            "time": "5.45 am",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Ernavur anna nagar",
+            "time": "5.48",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ernavur",
+            "time": "5.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Murugan Koil",
+            "time": "5.52",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Lift Gate",
+            "time": "5.54",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Since TH road is blocked , Students and Staff are requested to board the bus at parallel point in Thiruvottiyur Beach Road from Wimco Nagar to Thangal",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "Wimco nagar",
+            "time": "6.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruvottiyur Bus Terminal",
+            "time": "6.01",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Periar Nagar",
+            "time": "6.02",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vellayan Chettiyar School",
+            "time": "6.03",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruvottiyur Market",
+            "time": "6.04",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Theradi",
+            "time": "6.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Raja Kadai ",
+            "time": "6.06",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Elaiyamman Kovil",
+            "time": "6.07",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kaladipet market ",
+            "time": "6.08",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thangal",
+            "time": "6.09",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Tolgate ",
+            "time": "6.11",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kasimedu Signal",
+            "time": "6.13",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kalmandapam",
+            "time": "6.16",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Clive Battery",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via: Non Stop\nBeach station, Parrys,  \nCentral, Koyambedu Roundtana, Poonamallee Bye pass, ",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "01C": [
+        {
+            "location": "1C. Tollgate (Thiruvotriyur)",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "N4 Police Station",
+            "time": "6.10 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kasimedu Signal",
+            "time": "6.12",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Royapuram Bridge",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Beach Station",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Annamalai Mandram",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "GH (Rajiv Gandhi Hospital)",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Everest Hotel",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Daspraksh",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Neyveli House ",
+            "time": "6.31",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "KMC  ",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Taylors road ",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pachaiyappa",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Aminjikarai Billroth Hospital",
+            "time": "6.36",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Via - Non stop:\nKoyambedu Roundtana, \nPoonamallee Bye pass,",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College Campus",
+            "time": "7.40 am ",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "02": [
+        {
+            "location": "2.Tondiarpet",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Tondiarpet Mani Cycle Shop ",
+            "time": "6:10 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Tondiarpet Manikoondu ",
+            "time": "6:11 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Maharani (Singapore Shoppee)",
+            "time": "6.13",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Cementry Road",
+            "time": "6:14",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pencil Factory",
+            "time": "6:15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Min Old Bus Stop",
+            "time": "6.16",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mint New Bus Stand",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Basin Bridge",
+            "time": "6.18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pulianthop PoliceStation",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Patalam Bus Stop",
+            "time": "6.31",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bhuvaneswari Theatre Bus Stop ",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Dovton ",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Via - Non stop:\nKMC, Aminjikarai, Koyambedu Roundtana, Poonamallee Bye Pass.\nCollege campus7.40 am ",
+            "time": "College campus",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "03": [
+        {
+            "location": "3.Choolai",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Choolai post office",
+            "time": "6.15 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Veperi Police Station ",
+            "time": "6:20 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Saravana Stores - Pursaiwakkam ",
+            "time": "6:25 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kangathiswarar Koil ",
+            "time": "6:27 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Alagappa Road",
+            "time": "6:30 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bathala Ponniammam Koil",
+            "time": "6:31 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Motcham theatre",
+            "time": "6:32 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mummy Daddy",
+            "time": "6:35 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Murugan Hospital",
+            "time": "6:40 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nKoyambedu Rountana, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "03C": [
+        {
+            "location": "3C.Ayanawaram ESI",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "ESI Ayanawaram ",
+            "time": "6.20 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kellys - Signal ",
+            "time": "6:25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kilpauk Garden (Cementry) ",
+            "time": "6:27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Periyapalayatha Amman Temple",
+            "time": "6:29",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Shenoy nagar (TVK park)",
+            "time": "6:40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Panchaliyamman Koil street",
+            "time": "6:45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nKoyambedu Rountana, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "04": [
+        {
+            "location": "4.Chintadripet",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Chintadripet Fish Market ",
+            "time": "6.15 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chitharipet Market ",
+            "time": "6:17 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chitharipet Police Quarters ",
+            "time": "6:18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pudupet\t ",
+            "time": "6:20 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Egmore Court ",
+            "time": "6:22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Rajarthinam Stadium ",
+            "time": "6:25 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Egmore (Co-Optex) Bridge ",
+            "time": "6:28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Halls Road Junction ",
+            "time": "6:30 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Spurtank Road ",
+            "time": "6:32 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chepet Signal ",
+            "time": "6:35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Harington Road ",
+            "time": "6:37 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nKoyambedu Rountana, \nPoonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "04C": [
+        {
+            "location": "4C.Loyola College",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Loyola College",
+            "time": "6.35 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nungambakkam Railway Station ",
+            "time": "6:38 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mehtha Nagar ",
+            "time": "6:40 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pantloon",
+            "time": "6:43 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Skywalk",
+            "time": "6:45 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Anna Arch",
+            "time": "6:48 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Arumbakkam- Indian Hospital",
+            "time": "6:50 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nKoyambedu, Madhuravoil, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "05": [
+        {
+            "location": "5. Chintamani ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Chintamani",
+            "time": "6.30 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "K3 Police station",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Razack Garden ",
+            "time": "6:35 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "MMDA ",
+            "time": "6:38 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "MMDA Bus Depot ",
+            "time": "6:40 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vallavan Hotel ",
+            "time": "6:43 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "SAF Games Village ",
+            "time": "6:48 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nMadhuravoil, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "05C": [
+        {
+            "location": "5C-Toyota Show room ",
+            "time": "6.45 am",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Vempuliamman Koil ",
+            "time": "6:48",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nerkundram",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vengaya Mandi ",
+            "time": "6:53 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Madaravoyoil Post Office ",
+            "time": "6:55 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Madaravoyoil Errikarai ",
+            "time": "6.59 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruverkadu Toyota Show Room ",
+            "time": "7:07 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "ACS Medical College ",
+            "time": "7:09 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "06": [
+        {
+            "location": "6. New Avadi Road Water Tank",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "New Avadi Road Water Tank",
+            "time": "6.35 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Gangaiamman koil",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Lotus Colony",
+            "time": "6.39",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "14- Shop",
+            "time": "6.44",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kandasamy College",
+            "time": "6.46",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nalli Silks",
+            "time": "6.48",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ayyappan Temple ",
+            "time": "6:50 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Blue star",
+            "time": "6:52",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Tower Park Metro Station ",
+            "time": "6:54 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sathosh Super Market",
+            "time": "6:56",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Hot chips",
+            "time": "6:58",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Senthil Nursing Home",
+            "time": "7:00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "CPWD Quarters",
+            "time": "7:02",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nKoyambedu Rountana, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "07": [
+        {
+            "location": "7. Anna Nagar East",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Anna Nagar RTO Office",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Anna Nagar East 1st Avenue ",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Anna Nagar East 6th Avenue ",
+            "time": "6.39",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chennai Mobiles ",
+            "time": "6.41",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "K4 Police Station",
+            "time": "6.43",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kovai Palamuthircholai ",
+            "time": "6.45 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Akshyam Hotel  ",
+            "time": "6.47 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nuts Piczs  ",
+            "time": "6.49 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "SBI Bank - 6th Avenue  ",
+            "time": "6.51 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bata Show Room ",
+            "time": "6.53 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vijaya Maruthi",
+            "time": "6.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Relience Fresh",
+            "time": "6.57",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nTambram Ex Highway, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "07B": [
+        {
+            "location": "7B.Thirumangalam EB",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Thriumangalam EB Bus Stop",
+            "time": "6.40 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Water Tank (Muggapir West)",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "JJ Nagar Service Road",
+            "time": "7.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vanagaram Bus Stop",
+            "time": "7.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Velapanchavadi Kendra Vihar Appartment",
+            "time": "7.08",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nPoonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus\t",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "07C": [
+        {
+            "location": "7C. Wavin",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Collector nagar",
+            "time": "6.45 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "GEM Flats",
+            "time": "6.46",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "TSK Nagar",
+            "time": "6.47",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Velammal / DAV",
+            "time": "6.48",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Golden flats",
+            "time": "6.49",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nTambaram Express Highway, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "08": [
+        {
+            "location": "8. SIDCO Villivakkam",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "SIDCO Villivakkam",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Singarampillai School",
+            "time": "6.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Anbu Colony ",
+            "time": "6:44 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Anna Nagar West Depot",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nThambram Exp. Highway, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "08C": [
+        {
+            "location": "8C.  Waves",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "HP Petrol Bunk",
+            "time": "6.40 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Waves",
+            "time": "6.43",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "V3 JJ Nagar Police Booth",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Dharma Fancy Store(Veeramunivar rd Jn)",
+            "time": "6.46",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chandra Studio ",
+            "time": "6:47 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "IOB Mugapair East",
+            "time": "6.48",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ooty Vegetables",
+            "time": "6.49",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Water Tank",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nTambaram Express Highway, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "09": [
+        {
+            "location": "9.Mogappair East",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Aarthi Sweets\t ",
+            "time": "6.40 am ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Moggapair East Bus Stop (7H) ",
+            "time": "6:43 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\n Tambaram Express Highway Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "09B": [
+        {
+            "location": "9B Mogappair ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "VGN Appartments  ",
+            "time": "6:40  am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ambetkar Ground ",
+            "time": "6:41 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vellammal School (Moggapair West) ",
+            "time": "6:42 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Moggapair West  Bus Stand (7M) ",
+            "time": "6:46 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nTambaram Express Highway Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "09C": [
+        {
+            "location": "9C.Mogappair  West",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "DRJ Super Market",
+            "time": "6.50 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Freanch Loaf",
+            "time": "6.53",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "VGN Service Road",
+            "time": "6.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "MGR University",
+            "time": "6.56",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\n\nTambaram Express Highway\nPoonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "10": [
+        {
+            "location": "10. Pattalam (Dasamhan Road)",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Pattalam Rountana ",
+            "time": "6:18 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Dasamahan ",
+            "time": "6:20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Podikadai Bus Stop ",
+            "time": "6:22 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sayani Theatre  ",
+            "time": "6:25 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Venkatesapuram Colony ",
+            "time": "6.26 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "HP Petrol Bunk ",
+            "time": "6:27 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "K2 Police Station  ",
+            "time": "6:28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Joint Office ",
+            "time": "6:30 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Railway Quarters Bus Stop ",
+            "time": "6:33 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nLucas, Wavin, Tambaram express highway,\nPoonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "10C": [
+        {
+            "location": "10C. \u00a0 \u00a0 \u00a0 Binny Mill Church",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Binny Mill Church ",
+            "time": "6.20 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kambar Arangam",
+            "time": "6:35 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "ICF Signal",
+            "time": "6:37 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kallukadai Bus Stop",
+            "time": "6:38 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Villivakkam Kalpana Hotel ",
+            "time": "6:39 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nadhamuni Theatre",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nPadi, Wavin, Tambaram Express Highway, \nPoonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "11": [
+        {
+            "location": "11. Madhavaram (M1.Police Station)",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "M1.Police Station ",
+            "time": "6:20 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kanakan Chithiram ",
+            "time": "6:25 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Madavaram Rountana ",
+            "time": "6:27 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Retteri RTO Office ",
+            "time": "6:30 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Retteri ",
+            "time": "6:32 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Rajamangalam Signal (Reliance) ",
+            "time": "6:33 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Senthil Nagar ",
+            "time": "6:34 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thathankuppam (DRJ) ",
+            "time": "6:35 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Non Stop via -  Padi, Wavin, Tambaram high way, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "11C": [
+        {
+            "location": "11C. \u00a0 \u00a0 Korattur",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Patavetuamman Koil (Lucas) ",
+            "time": "6:30 am  ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Korattur Signal ",
+            "time": "6:32 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Korattur Police Station ",
+            "time": "6:33 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bakthavatchlam School Signal ",
+            "time": "6:35 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Church ",
+            "time": "6:37 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Karuk Signal ",
+            "time": "6:39 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Patarawakkam ",
+            "time": "6:40 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Telephone Exchange ",
+            "time": "6:45 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Wavin Signal ",
+            "time": "6:50 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nTambaram Exp.Highway, Poonamallee ByPass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "12": [
+        {
+            "location": "12. MKB. Nagar",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "MKB Nagar",
+            "time": "6.15 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "MKD Nagar",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "MR Nagar",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Erukancherry",
+            "time": "6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": " Non Stop via -  Chennai outer ring road .",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "12A": [
+        {
+            "location": "12A.Moolakadai",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Moolakadai  ",
+            "time": "6.20 am ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Don Bosco School ",
+            "time": "6.24 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Square Brothers Info Tech ",
+            "time": "6.26 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "70 Feet Road (SSM Elite Party Hall)) ",
+            "time": "6.30 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kolathur US Hospitals ",
+            "time": "6.35 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": " Non Stop via -  Chennai bypass road ",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "12B": [
+        {
+            "location": "12B. \u00a0 Kolathur ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Ajantha Bakery ",
+            "time": "6:30 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Welding Shop ",
+            "time": "6:35 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kolathur Junction ",
+            "time": "6:40 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Retteri Signal ",
+            "time": "6:42 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": " Non Stop via - Chennai Outer Ring Road ",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "12C": [
+        {
+            "location": "12C. \u00a0  Perambur",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Lakshmi Amman Koil(Ramana Nagar)",
+            "time": "6:10 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "EaswariMhal ",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Renuka amman koil Koil",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "BP Road ",
+            "time": "6:19 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Perambur Bus Depo",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Perambur Rly Station",
+            "time": "6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Perumbur Church",
+            "time": "6:25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ajantha Bakers",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Venus Bus Stop",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Non Stop via -  Wavin, Thambaram ",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "Express Highway, Poonamallee Bye Pass.",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "13": [
+        {
+            "location": "13.Peravallur",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Peravalur",
+            "time": "6.20 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Jawahar Nagar Bus Stop",
+            "time": "6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Axis Bank",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Agaram BPCL Bunk",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruvalluvar Kalyanamandabam",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Periyar Nagar Bus Stand",
+            "time": "6.28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kolathur Don Bosco School",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": " Non Stop via - Tambram Ex Highway, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "13B": [
+        {
+            "location": "13b.TVK Nagar",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Paneswari Amman Koil",
+            "time": "6.20 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "K 9 Thiru.Vi.Ka.Nagar Police Station",
+            "time": "6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sai Baba Temple",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiru.Vi.Ka. Nagar Bus Terminal",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "T.V.K Nagar Market",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via-Non stop\nMadhavaram Exp Highway, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "13C": [
+        {
+            "location": "13C. Poombukar Nagar",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Chiken Shop",
+            "time": "6.30 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Poombukar Nagar Post Office",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Grace Super Market",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": " Non Stop  via - \nTambram Ex Highway, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "14": [
+        {
+            "location": "14 Minjur",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Kattur Koot Road",
+            "time": "5.30 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "BDO Office",
+            "time": "5.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Patamanthri",
+            "time": "5.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Manali New Town",
+            "time": "5.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Manali Market",
+            "time": "6.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mathur",
+            "time": "6.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vetenari College",
+            "time": "6.12",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Milk Colony",
+            "time": "6.14",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Arul Nagar",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Madavaram Bus Stand",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Non Stop via -  \nVhennai Outer Ring road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "15": [
+        {
+            "location": "15. Ayapakkam",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Water Tank / Church",
+            "time": "6.25 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Dunlop",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Canara Bank",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "TI School Road",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Cake World - Ambattur",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Murugappa Politechnic",
+            "time": "6.43",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Non Stop  via - \nChennai Outer Ring Road, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "15A": [
+        {
+            "location": "15A. Ayapakkam Selvi Mahal",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Ayapakkam Selvi Mahal",
+            "time": "6.20 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bharath Petrol Bunk Ayapakkam",
+            "time": "6.21",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "ICMR",
+            "time": "6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pillayarkoil Ayapkkam",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ayapakkam Water Tank",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Koladi Petrol Bunk",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Caveri Nagar",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ramaliya Mahal",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruverkadu Bus Stand",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "MGR Nagar Caveri Hospital",
+            "time": "6.43",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "VGN Mahalakshmi Appartments",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Non Stop  via - \nChennai Outer Ring Road, Poonamallee Bye Pass.",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "15B": [
+        {
+            "location": "15B- Saraswathi Nagar (Ambattur)",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Saraswathy Nagar Ambattur",
+            "time": "6.40 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thirumullaivoil",
+            "time": "6.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vaishnawi Nagar",
+            "time": "6.43",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Hindu College",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Outer Ring Road bye Pass - Chokanallur",
+            "time": "7.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop hennai Outer Ring Road, Poonamallee Bye Pass.",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "15C": [
+        {
+            "location": "15C. Ambattur OT ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "HPM paradise ",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Singapore shopping",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sir Ivan Stedford Hospital",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Choknallur (Outer Ring)",
+            "time": "7.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": " Non Stop via -\nChennai Outer ring Road\nCollege campus7.40 am\n",
+            "time": "College campus",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "16": [
+        {
+            "location": "16.Red Hills Thachoor Koot Road",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Thachoor Koot Road",
+            "time": "5.50 am ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Panchati",
+            "time": "5.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Janapachathiram Koot Road",
+            "time": "6.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Karanodai",
+            "time": "6.07",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Cholavaram",
+            "time": "6.09",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Padiyanallur",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "MA Nagar",
+            "time": "6:17 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Red Hills Bye Pass",
+            "time": "6:22 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kavankarai",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Puzhal Jail",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Puzhual Camp ",
+            "time": "6.28 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Senthil nagar ",
+            "time": "6.35 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vellammal College",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ayyappan Koil ",
+            "time": "6.40 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kallikuppam Arch",
+            "time": "6.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop  Chennai Outer ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "16B": [
+        {
+            "location": "16B. Vinayagapuram",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Vinayagapuram SS Mahal",
+            "time": "6.24 am ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Lakshmipuram ",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vinayagapuram Koot Raod ",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vinayagapuram Bazar ",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vinayagapuram  KVB ATM ",
+            "time": "6.28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Surapet Main Road ",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Manikandapuram HP Petrol Bunk ",
+            "time": "6.43",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nChennai outer Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "college campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "16C": [
+        {
+            "location": "16C. Puzhal Byepass",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Redhills Koot Road",
+            "time": "6.15 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Redhills Bus Stand",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Redhills Market",
+            "time": "6.19",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Surapet",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Shanmugapuram",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kallikuppam Bridge",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Wireless",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pudur",
+            "time": "6.39",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Oragadam",
+            "time": "6.41",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "P.T.R.Kalyanamanadapam",
+            "time": "6.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nChennai Outer ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "17": [
+        {
+            "location": " 17.  Uthukottai   ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Uthukottai ",
+            "time": "5:50 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Seethancheri ",
+            "time": "6:05 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pularampakkam ",
+            "time": "6:25 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruvallur - Meera Theatre",
+            "time": "6:35 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vasantha Bhavan Hotel ",
+            "time": "6:37 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kakkalur Signal ",
+            "time": "6:40 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "State Bank of India ",
+            "time": "6:42 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Post Office ",
+            "time": "6:45 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "GH ",
+            "time": "6:47 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruvalluvar Rly.Station ",
+            "time": "6:52 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Onedikuppam Kalyamandappam ",
+            "time": "6:55 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Putlur ",
+            "time": "6:58 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus ",
+            "time": "7:40 am ",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "17B": [
+        {
+            "location": "17B. Avadi (Muthapudupet)",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Avadi HVF Estate Post Office",
+            "time": "6.14 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ajay Stadiuem",
+            "time": "6.19",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "CRPF Junction",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mitnamalli Junction",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Muthapupet",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ellaiamman Nagar  PTMS",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "PTMS Vigneswara Temple",
+            "time": "6.38",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Gandhi Nagar (Pattabiram)",
+            "time": "6.43",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nemelichery Rountana",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Jaya College",
+            "time": "6.46",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "NTM Community Hall",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Angel School",
+            "time": "6.53",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via -  Non Stop \nChennai Outer Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "17c": [
+        {
+            "location": "17C. Veppampattu",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Veppampattu Puliyamaram",
+            "time": "6.25 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Veppampattu Rly Station",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Veppampattu Tea Kadai",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kandankollai",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Muthapudupet",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chevappettai",
+            "time": "6.38",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kakkalur",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kakkalur old collector office",
+            "time": "6.48",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "GRT",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Manavalanagar Signal ",
+            "time": "6.54 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kupusamy Nagar ",
+            "time": "6.56 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Venkathur Road ",
+            "time": "6.58 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Aranawayal ",
+            "time": "7.00 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "",
+            "time": " ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via -  Non Stop \nThiruvalur - Poonamalle Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "18": [
+        {
+            "location": "18. Avadi       ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Avadi Bus Stand",
+            "time": "6.40 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Avadi Ramarathinam",
+            "time": "6.44",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ponnu Supermarket",
+            "time": "6.47",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "J.B.Estate",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": " via - Non Stop \nPoonamallee Bypass",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "18B": [
+        {
+            "location": "18B. Avadi Checkpost",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Avadi Gandhi Nagar",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Avadi Pillyarkoil",
+            "time": "6.31",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kavarapalayam",
+            "time": "6.34",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sindu Nagar",
+            "time": "6.36",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chekadu",
+            "time": "6.38",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pattabiram Bridge",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pandiyan Rice Mill",
+            "time": "6.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruninravur Gadhi Silai",
+            "time": "6.57",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Gomathipuram",
+            "time": "7.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "NSK Nagar",
+            "time": "7.03",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kottamedu Bus Stop",
+            "time": "7.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kottamedu School",
+            "time": "7.06",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nemmam",
+            "time": "7.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vellavedu",
+            "time": "7.19",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thirumizai Bus Stand",
+            "time": "7.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thirumizsai Siva Temple",
+            "time": "7.24",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thirumizsai Check Post",
+            "time": "7.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop Bangalore High Way",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "18C": [
+        {
+            "location": "18C. Avadi Market",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Vasantham Nagar",
+            "time": "6.45 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Moorthy Nagar",
+            "time": "6.46",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Govarthnagiri",
+            "time": "6.47",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ayankulam ",
+            "time": "6.48",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kendra Vidyalaya Flats",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Paruthipatu",
+            "time": "6.51",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kaduveti",
+            "time": "6.53",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Seneerkuppam",
+            "time": "6.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonmallee byepass ",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "19": [
+        {
+            "location": "19. Chengalpet",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Chengalpet GH",
+            "time": "5.45 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chengalpet Rotanakenar",
+            "time": "5.47",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chengalpet New Bus Stop",
+            "time": "5.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chengalpet Old Bus Stop",
+            "time": "6.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mahindra city",
+            "time": "6.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "S.P.Koil",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Maraimalai Nagar Bus Stop",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Potheri",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Srinivasapuram",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Guduvancheri Bus Stop",
+            "time": "6.31",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Guduvancheri E.B.Stop",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Oorapakkam Tea Kadai",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Oorapakkam Bus Stop",
+            "time": "6.41",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vandalur",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nChennai Outer Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "19a": [
+        {
+            "location": "19A. Perungalathur ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Perungalathur Bus Stop",
+            "time": "6.35 am ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Perungalathur Earikarai",
+            "time": "6:36",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Irumpuliyur",
+            "time": "6:40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Old Tambaram Kulam",
+            "time": "6:43 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Lakshmipuram",
+            "time": "6:44 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Krishnanagar",
+            "time": "6:46 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via Non Stop Chennai outer Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus\t",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "19B": [
+        {
+            "location": "19B. Varatharaja Theatre",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Varatharaja Theatre",
+            "time": "6.35 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Santorium",
+            "time": "6.38",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bharathamada Street",
+            "time": "6.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bharathi Nagar",
+            "time": "6.48",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Gandhi Nagar",
+            "time": "6.49",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Padmavathy Kalyanamandapam",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Parvathy Nagar",
+            "time": "6.52",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Outer Ring Road (Service Road)",
+            "time": "6.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nChennai Outer Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "19C": [
+        {
+            "location": "19C. Hasthinapuram",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Hasthinapuram Bus Stand",
+            "time": "6.20 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Amman Koil",
+            "time": "6.24",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kumaran Kundram",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bharathi Nagar Auto Stand",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Santorium TB Hospital",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Tambaram Santorium Bus Stand",
+            "time": "6.34",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Gandhi Road Sudar Hospital",
+            "time": "6.41",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "The Madras Deva Sadan School",
+            "time": "6.43",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Srinivasapuram",
+            "time": "6.44",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Madha College ",
+            "time": "7.00 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nallur ",
+            "time": "7.10 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Katrambakkam ",
+            "time": "7.20 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sipcot Roundtana ",
+            "time": "7.30 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nOuter Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "20": [
+        {
+            "location": "20. Kamatchi Hospital (Pallikaranai)   ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Kamachi Hospital",
+            "time": "6.15 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Narayanapuram",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pallikaranai Oil Mill",
+            "time": "6.19",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pallikaranai Govt School",
+            "time": "6.21",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pallikaranai Jayachandran",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Medavakkam Bus Stop",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Medavakkam Koot Road",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vijaya Nagaram",
+            "time": "6.29",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Santhoshpuram",
+            "time": "6.31",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kaveribakkam",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sembakkam",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kamarajapuram",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Raja Kilpakkam",
+            "time": "6.39",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nTambaram, Chennai Outer Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "20B": [
+        {
+            "location": "20B. Mambakkam ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Mambakkam",
+            "time": "6.10 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mambakkam Sivan Koil",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruvanchery",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Theeder Nagar",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bharath Engineering College",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Indra Nagar",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Camp Road Signal",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Selayur Police Station",
+            "time": "6.46",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Christ King School",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "MCC ",
+            "time": "6.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nTambaram Outer Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "20C": [
+        {
+            "location": "20C. Madippakam",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Ponniamman Koil",
+            "time": "6.20 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Indian Oil Petrol Bunk",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sathasiva Nagar",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ram Nagar",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kaiveli",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nTambaram Outer Ring Road",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "21": [
+        {
+            "location": "21. Adambakkam",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Kakkanpalam",
+            "time": "6.25 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Arun Ice Parler",
+            "time": "6.28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Prem Care Hospital",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Puzuthiwakkam Raod",
+            "time": "06;32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sakthi Cars",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thillai Ganga Nagar Sub Way",
+            "time": "6.38",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Alandur Court ",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nTambaram Outer Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "21C": [
+        {
+            "location": "21C. Velachery ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Thandeeswarm Bus Stand",
+            "time": "6.14 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Race Course Road",
+            "time": "6.18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Maduvenkari",
+            "time": "6.19",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Shanthi Apartment",
+            "time": "6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Adambakkam NGO Colony Depot",
+            "time": "6.24",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "St.Thomas Mount Rly Station",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Jayalakshmi Theatre",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Surender Nagar",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Aazarkhana Bus Stand",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nButt Road, Poonamallee Bype Pass",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "22": [
+        {
+            "location": "22. Sholinganallur (OMR)",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Sholinganallur",
+            "time": "5.50 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Saravana Stores",
+            "time": "5.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Karapakkam Bus Stop",
+            "time": "6.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "RRE Bus Stop",
+            "time": "6.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thorapakkam",
+            "time": "6.12",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Perunkudi",
+            "time": "6.13",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "MGR Road",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thramani Rly Station",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Baby Nagar",
+            "time": "6.24",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Tanci Nagar",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vijaya Nagar Kajana Jewlers",
+            "time": "6.29",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Murugan Kalyanamandabam",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Krishna Sweets",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Velachery Chekpost",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nButt Road, Poonamallee Bype Pass",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "23": [
+        {
+            "location": "23. Kovilampakkam",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Kovilambakkam ",
+            "time": "6.15 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Veramani Nagar",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ganesh Nagar",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kumaran Theatre",
+            "time": "6.29",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Krishna Sweets",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nanganallur 1st Main Road",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Roja Medical",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pallavaram Signal",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nOuter Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "23C": [
+        {
+            "location": "23C. Keelkatalai",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Keelkatalai Bus Stand",
+            "time": "6.25 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "UTI ",
+            "time": "6.28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Madipakkam Koot Road",
+            "time": "6.29",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ulagaram Oil Mill",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vanumpet Church",
+            "time": "6.34",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chiambaram Stores",
+            "time": "6.36",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pavavanthangal Sub Way",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nOuter Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "24": [
+        {
+            "location": "24. Nanganallur",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Mooversanpet Kulam",
+            "time": "6.25 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ealuruammn Koil",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "J.K.Mahal",
+            "time": "6.29",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nanganallur Bus Stand",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ranga Theatre",
+            "time": "6.31",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Indipendence Day Park",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nOuter Ring Road",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "24C": [
+        {
+            "location": "24C. Chrompet",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Chrompet MIT Bridge",
+            "time": "6.40 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chrompet Bus Stop",
+            "time": "6.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Saravana Stores",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nagalkeni",
+            "time": "6.48",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "ESSAR petrol bunk",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Lakshmi Nagar",
+            "time": "6.53",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruneer Malai",
+            "time": "6.58",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thirumudivakkam Amar Prakash Appartment",
+            "time": "7.02",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nOuter Ring Road",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "25": [
+        {
+            "location": "25. VGP (ECR)",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "VGB",
+            "time": "6.00 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vettuvakani",
+            "time": "6.08",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Neelankarai Puhari",
+            "time": "6.11",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Neelankarai Police Station",
+            "time": "6.13",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Palavakkam Anoty Church",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Palavakkam Periyar Street",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kotivakkam Bus Stop",
+            "time": "6.19",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruvanmiur RTO Office",
+            "time": "6.21",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Murutheswarar Koil",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruvanmiur Depot",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thiruvanmiur Signal",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Tidel Park",
+            "time": "6.28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Butt Road",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sangeetha Hotel Signal",
+            "time": "6.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kumanan Chavadi Petrol Bunk",
+            "time": "7.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "25C": [
+        {
+            "location": "25C. Adyar ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Indra Nagar Water Tank",
+            "time": "6.15 am ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Besant Nagar",
+            "time": "6.18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "BSNL Office Adyar",
+            "time": "6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Adyar Signal",
+            "time": "6.24",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Adyar Bus Stand (Ambica Appalam)",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Madhya Kailash",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Le Royal Meridian (Guindy)",
+            "time": "6.38",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Butt Road",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "26": [
+        {
+            "location": "26. Triplicane ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "D1 Police Station",
+            "time": "6.05 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Rathna Caf\u00e9",
+            "time": "6.08",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "ICE House",
+            "time": "6.12",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Meesapet Market",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "New College",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Fire Office",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kattupakkam Muniswarn Koil",
+            "time": "7.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \n Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "26C": [
+        {
+            "location": "26C. Nandanam",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Venkatnarayana Road",
+            "time": "6.15 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "GRT Grand Days Hotel",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Tenampet Signal",
+            "time": "6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "SIET Signal",
+            "time": "6.24",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nandanam Signal",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Saidapet (Metro Station)",
+            "time": "6.28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kalaignar Arch",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chinnamalai Court",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kattupakkam (Hyndai Showroom)",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kattupakkam Bus Stop",
+            "time": "6.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \n Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "27": [
+        {
+            "location": "27. Pattinapakkam",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Airtel Office",
+            "time": "6.00 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mandaveli Bus Depot",
+            "time": "6.03",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Devanathan Street",
+            "time": "6.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mandaveli Post office ",
+            "time": "6.07",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Billrtoth Hospital",
+            "time": "6.11",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "C.P.Ramasamy Road",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "TTK Road",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Adyar Gate Hotel",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kotturpuram",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nButt Road,  Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "27C": [
+        {
+            "location": "27C. Santhome (Light house)",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Light House",
+            "time": "6.05 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Santhome",
+            "time": "6.08",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Jain Temple",
+            "time": "6.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Luz Corner",
+            "time": "6.12",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vivekanada College",
+            "time": "6.13",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "New Woodlands",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Music Acadmy",
+            "time": "6.16",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Stalla Marrys College3",
+            "time": "6.18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kattupaakam Maran Garden",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "28": [
+        {
+            "location": "28. LIC",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "LIC",
+            "time": "6.10 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Royapettah Clock Tower",
+            "time": "6.11",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nungambakkam Police Station",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bharathy Nagar",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Liberty",
+            "time": "6.28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Power House",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sivan Koil",
+            "time": "6.34",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Lakshman Sruthi",
+            "time": "6.36",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPorur, Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "28C": [
+        {
+            "location": "28C. Vadapalani",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Samiyarmadam",
+            "time": "6.25 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Lakshman Sruthi Opposite",
+            "time": "6.28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vadapalni Depot",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Avichi School",
+            "time": "6.36",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Lamax School",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Karampakkam Bus Stop",
+            "time": "6.47",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPorur, Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "29": [
+        {
+            "location": "29. Saligramam",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Surya Hospital",
+            "time": "6.30 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Parvathi Bhavan",
+            "time": "6.31",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Dasarathapuram",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sudharma Mahal",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kamachi Store",
+            "time": "6.36",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Saligramam Bus Stand",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "AVM Colony",
+            "time": "6.39",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPorur, Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "29C": [
+        {
+            "location": "29C. Alwarthirunagar",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Mega Mart",
+            "time": "6.40 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Valasaravakkam Signal",
+            "time": "6.43",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPorur,Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "30": [
+        {
+            "location": "30. Chinmaya Nagar",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Chinmaya Nagar Bus Stop",
+            "time": "6.30 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sai Nagar Bus Stop",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Natesan Nagar Bus Stop",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPorur, Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "30C": [
+        {
+            "location": "30C. Elango Nagar",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Elango Nagar",
+            "time": "6.40 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Virugambakkam Market",
+            "time": "6.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kesavarthini",
+            "time": "6.44",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Friends Park Hotel",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Lakshmi Nagar",
+            "time": "6.47",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Saibaba Koil (Kumanan Chavadi)",
+            "time": "7.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "31": [
+        {
+            "location": "31. Valluvarkottam",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Valluvarkottam",
+            "time": "6.15 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Habibullah Road",
+            "time": "6.18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ragavaiah Road",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Panagal Park",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Duraisamy Subway",
+            "time": "6.24",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "SRM Hospitel",
+            "time": "6.25 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "G.P.Road (West Mambalam)",
+            "time": "6.26",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ayodhya Mandapam",
+            "time": "6.28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Postal Colony",
+            "time": "6.29",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sangamam Hotel",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nKathipara, Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "32": [
+        {
+            "location": "32. CIT nagar",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "CIT Nagar Bus Stop",
+            "time": "6.15 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vasanth & Co",
+            "time": "6.18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Aranganathan Sub Way",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Srinivasa Theatre",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Metupalayam",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Blue Tank",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ramapuram Signal",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "DLF",
+            "time": "6.38",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPorur,  Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "32C": [
+        {
+            "location": "32C. Ashok Pillar",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Pallava Hospital",
+            "time": "6.25 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ashok Pillar (ICICI Bank)",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ashok Pillar Bus Stop",
+            "time": "6.28",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kasi Theatre",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ekkatuthangal",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ammbal Nagar",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nKathipara, Poonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "33": [
+        {
+            "location": "33. M.G.R.Nagar",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Nagathamman Koil (PTR Salai)",
+            "time": "6.20 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "K.K.Nagar Pillaiyar koil ",
+            "time": " 6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Hotel Saravana Bhavan",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "MGR Nagar Market",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Porur Bus Stand",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Porur Erikarai",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kattupakkam Petrol Bunk",
+            "time": " 6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop\nPorur,\nPoonamallee Bye Pass",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "33C": [
+        {
+            "location": "33C. KK Nagar",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Nesapakkam",
+            "time": "6.35 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pondichery Guest House",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Virugampakkam Vempuliamman Koil",
+            "time": "6.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Porur Bus Stand",
+            "time": "6.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "34": [
+        {
+            "location": "34. Pour Ramachandra",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Ramachandra",
+            "time": "6.45 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Munisvaran Koil (Kattupakkam)",
+            "time": "6.53",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kumananchavadi (EVP Mal)",
+            "time": "6.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ambettakar Silai",
+            "time": "7.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nasarathpet Bus Stop",
+            "time": "7.18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Nasarathpet Petrol Bunk",
+            "time": "7.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chembarambakkam Police Booth",
+            "time": "7.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Godrej Apartment",
+            "time": "7.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "RIT",
+            "time": "7.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "St Johan~s School Palanchur",
+            "time": "7.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \n",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "35": [
+        {
+            "location": "35. Pammal",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Therasa School",
+            "time": "6.30 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Puthur Koil",
+            "time": "6.31",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Krishna Nagar",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pozhihcalur Church",
+            "time": "6.34",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pammal",
+            "time": "6.36",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Arulmani Theatre",
+            "time": "6.38",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Indian Bank",
+            "time": "6.39",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Amman Koil Anagaputhur",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Anagaputhur",
+            "time": "6.41",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "35C": [
+        {
+            "location": "35C. Kundrathur",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Mananchery",
+            "time": "6.38 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Andarkuppam",
+            "time": "6.39",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kundrathur",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sivanthangal",
+            "time": "6.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Muthukumaran Bus Stop",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pattu Koot Road",
+            "time": "6.47",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mangadu",
+            "time": "6.51",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Gangaiamman Koil",
+            "time": "6.53",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kummananchavadi",
+            "time": "6.58",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "36": [
+        {
+            "location": "36. Kovur",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Moondram Kattalai",
+            "time": "6.30 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kovur RTO Office",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kovur High School",
+            "time": "6.34",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Panicherry",
+            "time": "6.36",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Girugampakkam Bus Stop",
+            "time": "6.39",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Girugampakkam Lakshmi Kalyanamandapam",
+            "time": "6.41",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kolapakkam Bus Stop",
+            "time": "6.43",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Bai Kadai",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "36C": [
+        {
+            "location": "36C. Madhanandapuram",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Madhanandapuram Bus Stop",
+            "time": "6.35 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Madhanandapuram Petrol Bunk",
+            "time": "6.38",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Porur EB",
+            "time": "6.39",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Porur  Bridge Down",
+            "time": "6.41",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Iyappanthangal",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "37": [
+        {
+            "location": "37. DLF",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "DLF",
+            "time": "6.45 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mugaliwakkam",
+            "time": "6.47",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mugaliwakkam Bus Stop",
+            "time": "6.49",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Saravana Stores",
+            "time": "6.31",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Police Station",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nPoonamallee Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "37B": [
+        {
+            "location": "37B. NIVH Poonamalle",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "National Institute for the Visually Handicapped",
+            "time": "7.00 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Govt.Higher Secoundary School",
+            "time": "7.02",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Karayanchavadi Bus Stop",
+            "time": "7.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Indian Bank",
+            "time": "7.08",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "E.B.Office",
+            "time": "7.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Perumal Koil",
+            "time": "7.12",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Golden Apartment (Poonamallee Byepass)",
+            "time": "7.14",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Paraivakkam Signal",
+            "time": "7.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \n",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "37C": [
+        {
+            "location": "37C. Poonamalle Bus stand",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Mosque",
+            "time": "7.05 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Market",
+            "time": "7.08",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Harifa Store (Mangalam Hospital)",
+            "time": "7.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "GRT",
+            "time": "7.13",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nNasarathpet",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "38": [
+        {
+            "location": "38. Cheyyar",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "State Bank",
+            "time": "5.40 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Soundari Theatre",
+            "time": "5.42",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pandiyampakkam",
+            "time": "6.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mangal Koot Road",
+            "time": "6.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mamandur",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Dusi",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Housing Board",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kanchipuram collectorate",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \n",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "38C": [
+        {
+            "location": "38C- Iyyangarkulam Koot Road",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Manamathi X Road",
+            "time": "5.55 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Peru Nagar",
+            "time": "6.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Iyyangarkulam",
+            "time": "6.15 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Punchaiarasanthangal",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sevelimedu",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kachepeswarar Koil",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Eagabaranathar Koil",
+            "time": "6.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nSripermbuthur bye pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "39": [
+        {
+            "location": "39. Uthiramerur",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Uthirumerur",
+            "time": "5.40 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Karuvappampoondi",
+            "time": "5.55",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Manalmedu",
+            "time": "5.57",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vengacherry",
+            "time": "6.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Magaral",
+            "time": "6.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Arpakkam",
+            "time": "6.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kalakatur",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kuruvimalai",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Orikkai",
+            "time": "6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Miltary Road",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Gandhi Nagar",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Keel Gate",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Keeramandapam",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \n",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "40": [
+        {
+            "location": "40. Walajabad",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "New Police Station",
+            "time": "6.15 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chetty Street",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Perumal Koil",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Tollgate",
+            "time": "6.21",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Periyar Nagar",
+            "time": "6.22",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pachyappa College",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ayyampet Anjeneyar Koil",
+            "time": "6.24",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ayyampet Easwearan Koil",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Rajampet",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Keelwottivakkam",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Walajabad",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Waranavasi",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Oragadam",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \n",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "40B": [
+        {
+            "location": "40B. Rangasamy Kulam",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Rengasamy Kulam",
+            "time": "6.20 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mungelmandapam",
+            "time": "6.23",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thaluk Office",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Gujarathi Chithiram",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Oli Mohamed Pettai (Kori)",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sripermbathur High School",
+            "time": "7.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Rajalakshmi Cars",
+            "time": "7.18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \n",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "40C": [
+        {
+            "location": "40C. Kanchipuram Bus Stand",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Ramas Cafe",
+            "time": "6.30 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nSunguvar Chathiram, Sriperumbattur bye pass",
+            "spl": "yes",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "41": [
+        {
+            "location": "41. Ranipet",
+            "time": " ",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Rajeswari Theatre",
+            "time": "6.00 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ranipet Old Bus Stand",
+            "time": "6.02",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Muthukadai",
+            "time": "6.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Walajapet GH",
+            "time": "6.07",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Walajapet Bus Stand",
+            "time": "6.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Housing Board",
+            "time": "6.12",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "AAA College",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Walajapet Toll Gate",
+            "time": "6.17",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kaveripakkam",
+            "time": "6.18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thamal",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Balu chetty",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nSripermbathur Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "41C": [
+        {
+            "location": "41C.  Vellore",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Vellore Rountana",
+            "time": "5.30 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sathuvachari",
+            "time": "5.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vallar",
+            "time": "5.37",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pootuthakal",
+            "time": "5.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Arcot",
+            "time": "6.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ranipet Byepass",
+            "time": "6.03",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Walaja Toll Booth",
+            "time": "6.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Baguwali Koot Road",
+            "time": "6.13",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ponerikarai",
+            "time": "6;45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nSriperumbathur Bye Pass",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "42": [
+        {
+            "location": "42. Arakkonam",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Indra Gandhi Statue",
+            "time": "6.10 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Suvalpet",
+            "time": "6.12",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Old Bus Stand",
+            "time": "6.13",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "New Bus Stand",
+            "time": "6.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Winterpet",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "SR Gate",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Venketasapuram Bus Stand",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nThandalam Koot Road",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "42C": [
+        {
+            "location": "42C. Sholingur ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Sholingur Bus Stand",
+            "time": "5.35 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Karumaiamman Koil",
+            "time": "5.36",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Salai",
+            "time": "6.00",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chitteri X Road",
+            "time": "6.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Gumpinipettai",
+            "time": "6.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Chinnakayanoor Bridge",
+            "time": "6.11",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Venkatesapuram",
+            "time": "6.18",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Perumuchi",
+            "time": "6.20",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thakkolam Koot Road",
+            "time": "6.25",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kadamnallur",
+            "time": "6.27",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thakkolam EB",
+            "time": "6.30",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thakkolam Malebazar",
+            "time": "6.32",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thakkolam Keelbazar",
+            "time": "6.33",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Thakkolam Petrol bunk",
+            "time": "6.35",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Marimangalam",
+            "time": "6.40",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Narasingapuram",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Permbakkam",
+            "time": "6.48",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Koovam",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kondancheri",
+            "time": "6.52",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Moppedu",
+            "time": "6.56",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vooluthai",
+            "time": "7.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nThandalam Koot Road",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "43": [
+        {
+            "location": "43.Thiruthani",
+            "time": "",
+            "spl": "no",
+            "heading": "yes"
+        },
+        {
+            "location": "Thirupathi Bye Pass",
+            "time": "5.45 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kanakammachathram",
+            "time": "6.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ramanjeri",
+            "time": "6.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Catter Piller",
+            "time": "6.45",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Melnallathur",
+            "time": "6.47",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Polivakkam",
+            "time": "6.50",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mannur",
+            "time": "7.05",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Valarupuram",
+            "time": "7.10",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Kel Valarpuram",
+            "time": "7.15",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "via - Non Stop \nThandalam Koot Road",
+            "time": "",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College campus",
+            "time": "7.40 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ],
+    "44": [
+        {
+            "location": "44. Nemili-Panappakkam ",
+            "spl": "yes",
+            "heading": "yes"
+        },
+        {
+            "location": "Nemili Bus Stand ",
+            "time": " 6:05 am",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vetangulam ",
+            "time": " 6:08 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Reddyvalam ",
+            "time": " 6:12 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Panapakkam ",
+            "time": " 6:15 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Aayarpadi ",
+            "time": " 6:20 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Ocheri ",
+            "time": " 6:22 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Baluchetti ",
+            "time": " 6:35 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Vellagate (Sakthiganapthy Hotel) ",
+            "time": " 6:40 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Meenachi College (KPM) ",
+            "time": " 6:45 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Rajakulam ",
+            "time": " 6:50 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sathankulam ",
+            "time": " 6:52 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Pillaichatram ",
+            "time": " 6:55 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sunguvar Chatram Bus Stand ",
+            "time": " 7:05 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Mambakkam ",
+            "time": " 7:10 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "Sriperumbuthur Bus Stand ",
+            "time": " 7:20 ",
+            "spl": "no",
+            "heading": "no"
+        },
+        {
+            "location": "College Campus ",
+            "time": " 7:45 am",
+            "spl": "no",
+            "heading": "no"
+        }
+    ]
+}

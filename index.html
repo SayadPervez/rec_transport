@@ -1,0 +1,79 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REC Transport</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Compiled and minified CSS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <style>
+        footer a{
+            margin-left:auto;
+            margin-right:auto;
+        }
+    </style>
+    <script>
+          $(document).ready(function(){
+                $('.collapsible').collapsible();
+            });
+    </script>
+</head>
+<body>
+    <header>
+        <nav class="nav-wrapper" style="background-color: rgba(71,0,71,0.8);">
+            <div class="container">
+            <a href="#" class="brand-logo" style="font-size:21px;font-weight: bold;">REC Transport</a>
+            <ul class="right hide-on-med-and-down">
+                <li><a href="https://www.instagram.com/myrecchennai/?hl=en" class="tooltipped btn-floating btn-small white" data-position="bottom" data-tooltip="Instagram"> 
+                <i class="fab fa-instagram purple-text text-darken-4"></i>
+                </a></li>
+                <li><a href="https://www.linkedin.com/school/rajalakshmi-engineering-college" class="tooltipped btn-floating btn-small white" data-position="bottom" data-tooltip="Facebook">
+                <i class="fab fa-linkedin purple-text text-darken-4"></i>
+                </a></li>
+                <li><a href="https://twitter.com/myrecchennai" class="tooltipped btn-floating btn-small white" data-position="bottom" data-tooltip="Twitter">
+                <i class="fab fa-twitter purple-text text-darken-4"></i>
+                </a></li></ul>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <table id="mainTable" class="centered purple lighten-5" style="margin-top: 2rem;margin-bottom: 2rem;border:2px solid black;">
+            <tr style="background-color: #800080;color:#FFF;border:1px solid black;">
+                <th class="center-align" style="border:1px solid black;">S.No.</th>
+                <th class="center-align" style="border:1px solid black;">R.No</th>
+                <th class="center-align" style="border:1px solid black;">Route Name</th>
+            </tr>
+        </table>
+    </div>
+    <footer class="valign-wrapper" style="display:flex;justify-content: center;width:100%;margin:0;padding:0;height: 70px;background-color: rgba(71,0,71,0.8);">
+        <a href="https://www.instagram.com/myrecchennai/?hl=en" class="tooltipped btn btn-small white"  data-position="bottom" style="width:15%;"  data-tooltip="Instagram"> 
+          <i class="fab fa-instagram purple-text text-darken-4"></i>
+        </a>
+        <a href="https://www.linkedin.com/school/rajalakshmi-engineering-college" class="tooltipped btn btn-small white" data-position="bottom"  style="width:15%;" data-tooltip="Facebook">
+          <i class="fab fa-linkedin purple-text text-darken-4"></i>
+        </a>
+        <a href="https://twitter.com/myrecchennai" class="tooltipped btn btn-small white" style="width:15%;" data-position="bottom" data-tooltip="Twitter">
+          <i class="fab fa-twitter purple-text text-darken-4"></i>
+        </a>
+    </footer>
+    <style>
+        td{
+            font-weight: bold;
+        }
+        @media screen and (min-width: 560px) {
+            .for-margin {
+                padding-left:2rem;
+                padding-right:2rem;
+            }
+        }
+    </style>
+
+    <script src="./brain.js"></script>
+</body>
+</html>
